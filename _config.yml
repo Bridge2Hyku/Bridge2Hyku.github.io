@@ -11,7 +11,7 @@
 title: 'Bridge2Hyku'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Bridge to a bridge'
+slogan: 'A bridge to your digital library'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'We are a community resource for migrating to Hyku. This project was made possible in part by the Institute of Museum and Library Services <a href="https://www.imls.gov/grants/awarded/lg-70-17-0217-17">(LG-70-17-0217-17)</a>.'
@@ -25,12 +25,11 @@ author: Crocken
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://crocken.github.io'
-baseurl: '/testing-responsive'
+url: 'https://bridge2hyku.github.io'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/crocken/testing-responsive/edit/gh-pages
+improve_content: https://github.com/bridge2hyku/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +37,7 @@ improve_content: https://github.com/crocken/testing-responsive/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://crocken.github.io/testing-responsive/images/'
+urlimg: 'https://bridge2hyku.github.io/images/'
 
 
 # Logo size is 600x80 pixels
