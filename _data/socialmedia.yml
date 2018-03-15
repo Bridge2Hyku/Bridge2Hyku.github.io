@@ -1,0 +1,9 @@
+- name: GitHub
+  url: http://github.com/bridge2hyku
+  class: icon-github
+  title: Our github and toolkit
+
+- name: Twitter
+  url: http://twitter.com/Bridge2Hyku
+  class: icon-twitter
+  title: "Bridge2Hyku's most recent news"

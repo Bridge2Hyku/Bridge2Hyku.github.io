@@ -1,0 +1,26 @@
+- title: Home
+  url: "/"
+  side: left
+
+- title: About
+  url: "/info/"
+  side: left
+  dropdown:
+  - title: "Why Hyku?"
+    url: "/why-hyku/"
+        
+- title: "Blog"
+  url: "/blog/archive/"
+  side: left
+ 
+- title: "Migration Survey"
+  url: "/survey/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
