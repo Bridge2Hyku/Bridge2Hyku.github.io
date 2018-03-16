@@ -27,6 +27,10 @@ ContentDM, Rosetta, Islandora, Invenio, Roda, Hyrax, Hyku... there's a lot of ch
 
 Hyku, AKA Hydra-In-a-Box, was built as a part of the Institute for Museum and Library Services' <a href="https://www.imls.gov/issues/national-issues/national-digital-platform">National Digital Platform</a> initiatve. It strives to be <a href="http://hydrainabox.samvera.org/">a feature-rich, robust, flexible digital repository that is easy to install, configure, and maintain."</a>
 
+## Institutional Repository vs Cultural Heritage Site
+
+Hyku currently works for both scenarios, but is still working on becoming a more fleshed-out cultural heritage site. The Hyku Pilot that occured in 2017 included a <a href="https://docs.google.com/document/d/1mpYLs2pqwKDCCxF0Kb-JTC4OjPLgmbJ6d1IBunxHqAw/edit?usp=sharing">gap assessment document</a> that should help you when considering Hyku. 
+
 
 ## Omeka vs Hyku {#omeka-hyku}
 
