@@ -8,6 +8,10 @@
   dropdown:
   - title: "Why Hyku?"
     url: "/why-hyku/"
+
+- title: Partners
+  url: "/our-partners/"
+  side: left
         
 - title: "Blog"
   url: "/blog/archive/"
