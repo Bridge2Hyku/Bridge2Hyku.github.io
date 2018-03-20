@@ -24,7 +24,6 @@ header: no
   <div class="large-6 columns">
       <img src="/images/logos/logo-um.png">
   </div>
-    <div class="row">
   <div class="large-6 columns">
       <img src="/images/logos/logo-iupui.png">
   </div>
@@ -48,7 +47,6 @@ header: no
   <div class="large-6 columns">
       <img src="/images/logos/logo-dpla.png">
   </div>
-    <div class="row">
   <div class="large-6 columns">
       <img src="/images/logos/logo-duraspace.png">
   </div>
@@ -59,4 +57,10 @@ header: no
     <div class="small-12 columns">
         <h3>Project Sponsor</h3>
     </div><!-- /.small-12.columns -->
+</div>
+
+<div class="row">
+  <div class="large-6 columns">
+      <img src="/images/logos/logo-imls.png">
+  </div>
 </div>
