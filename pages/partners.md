@@ -13,19 +13,19 @@ header: no
 </div>
 
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-6 columns">
       <img src="/images/logos/logo-uh.png">
   </div>
-  <div class="large-4 columns">
+  <div class="large-6 columns">
       <img src="/images/logos/logo-uvic.png">
   </div>
 </div>
 <div class="row">
-  <div class="large-4 columns">
+  <div class="large-6 columns">
       <img src="/images/logos/logo-um.png">
   </div>
     <div class="row">
-  <div class="large-4 columns">
+  <div class="large-6 columns">
       <img src="/images/logos/logo-iupui.png">
   </div>
 </div>
