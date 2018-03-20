@@ -14,18 +14,18 @@ header: no
 
 <div class="row">
   <div class="large-6 columns">
-      <img src="/images/logos/logo-uh.png">
+      <a href="http://www.uh.edu/"><img src="/images/logos/logo-uh.png"></a>
   </div>
   <div class="large-6 columns">
-      <img src="/images/logos/logo-uvic.png">
+      <a href="https://www.uvic.ca/"><img src="/images/logos/logo-uvic.png"></a>
   </div>
 </div>
 <div class="row">
   <div class="large-6 columns">
-      <img src="/images/logos/logo-um.png">
+      <a href="https://welcome.miami.edu/"><img src="/images/logos/logo-um.png"></a>
   </div>
   <div class="large-6 columns">
-      <img src="/images/logos/logo-iupui.png">
+      <a href="https://www.iupui.edu/"><img src="/images/logos/logo-iupui.png"></a>
   </div>
 </div>
 
@@ -37,18 +37,18 @@ header: no
 
 <div class="row">
   <div class="large-6 columns">
-      <img src="/images/logos/logo-stanford.png">
+      <a href="https://www.stanford.edu/"><img src="/images/logos/logo-stanford.png"></a>
   </div>
   <div class="large-6 columns">
-      <img src="/images/logos/logo-iu.png">
+      <a href="https://www.indiana.edu/"><img src="/images/logos/logo-iu.png"></a>
   </div>
 </div>
 <div class="row">
   <div class="large-6 columns">
-      <img src="/images/logos/logo-dpla.png">
+      <a href="https://dp.la/"><img src="/images/logos/logo-dpla.png"></a>
   </div>
   <div class="large-6 columns">
-      <img src="/images/logos/logo-duraspace.png">
+      <a href="http://duraspace.org/"><img src="/images/logos/logo-duraspace.png"></a>
   </div>
 </div>
 
@@ -61,6 +61,6 @@ header: no
 
 <div class="row">
   <div class="large-6 columns">
-      <img src="/images/logos/logo-imls.png">
+      <a href="https://www.imls.gov/"><img src="/images/logos/logo-imls.png"></a>
   </div>
 </div>
