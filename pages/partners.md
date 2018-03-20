@@ -37,6 +37,25 @@ header: no
 </div>
 
 <div class="row">
+  <div class="large-6 columns">
+      <img src="/images/logos/logo-stanford.png">
+  </div>
+  <div class="large-6 columns">
+      <img src="/images/logos/logo-iu.png">
+  </div>
+</div>
+<div class="row">
+  <div class="large-6 columns">
+      <img src="/images/logos/logo-dpla.png">
+  </div>
+    <div class="row">
+  <div class="large-6 columns">
+      <img src="/images/logos/logo-duraspace.png">
+  </div>
+</div>
+
+
+<div class="row">
     <div class="small-12 columns">
         <h3>Project Sponsor</h3>
     </div><!-- /.small-12.columns -->
