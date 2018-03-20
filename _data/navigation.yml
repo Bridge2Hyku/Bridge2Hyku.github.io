@@ -6,17 +6,17 @@
   url: "/info/"
   side: left
   dropdown:
-  - title: "Why Hyku?"
-    url: "/why-hyku/"
+  - title: "Hyku"
+    url: "/hyku/"
 
 - title: Partners
-  url: "/our-partners/"
+  url: "/partners/"
   side: left
-        
+
 - title: "Blog"
   url: "/blog/archive/"
   side: left
- 
+
 - title: "Migration Survey"
   url: "/survey/"
   side: right

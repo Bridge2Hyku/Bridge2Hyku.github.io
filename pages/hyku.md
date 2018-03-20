@@ -1,12 +1,12 @@
 ---
 layout: page-fullwidth
-title: "Why Hyku?"
-subheadline: "the best digital repository for you"
-teaser: "We're here to help you decide the right place for your situation"
+title: "Hyku"
+subheadline:
+teaser: "We're here to help you decide if Hyku is the right choice for your repository"
 permalink: "/info/"
 header:
     image_fullwidth: "header_unsplash_8.jpg"
-permalink: "/why-hyku/"
+permalink: "/hyku/"
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -40,7 +40,7 @@ These are just some of the features listed in Hyku's <a href="https://wiki.duras
 
 ## Institutional Repository vs Cultural Heritage Site {#ir-ch}
 
-Hyku currently works for both scenarios, but is still working on becoming a more fleshed-out cultural heritage site. The Hyku Pilot that occured in 2017 included a <a href="https://docs.google.com/document/d/1mpYLs2pqwKDCCxF0Kb-JTC4OjPLgmbJ6d1IBunxHqAw/edit?usp=sharing">gap assessment document</a> that should help you when considering Hyku. 
+Hyku currently works for both scenarios, but is still working on becoming a more fleshed-out cultural heritage site. The Hyku Pilot that occured in 2017 included a <a href="https://docs.google.com/document/d/1mpYLs2pqwKDCCxF0Kb-JTC4OjPLgmbJ6d1IBunxHqAw/edit?usp=sharing">gap assessment document</a> that should help you when considering Hyku.
 
 
 ## Omeka vs Hyku {#omeka-hyku}
@@ -49,7 +49,7 @@ If you're looking to build an online exhibition or digital humanities project, <
 
 ## Hyku vs Hyrax {#hyku-hyrax}
 
-Hyku is an "out of the box" version of Hyrax, if you do not have any web developers on staff or already plan to use a consortium to help offload technical issues, Hyku is the right fit for you, check out <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">this article</a> on Hyku's wiki. If you have developers on staff and are looking to have customized workflows and tech specs, consider using <a href="http://hyr.ax/">Hyrax</a> and joining the <a href="http://samvera.org/">Samvera community</a>. 
+Hyku is an "out of the box" version of Hyrax, if you do not have any web developers on staff or already plan to use a consortium to help offload technical issues, Hyku is the right fit for you, check out <a href="https://wiki.duraspace.org/pages/viewpage.action?pageId=85530575">this article</a> on Hyku's wiki. If you have developers on staff and are looking to have customized workflows and tech specs, consider using <a href="http://hyr.ax/">Hyrax</a> and joining the <a href="http://samvera.org/">Samvera community</a>.
 
 {% include _improve_content.html %}
 </div><!-- /.medium-8.columns -->
