@@ -15,17 +15,17 @@ header: no
 <div class="row">
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-uh.png" alt="University of Houston Logo"></a>
-      <figcaption class="text-right">
-        <a href="http://www.uh.edu/">University of Houston</a>
+      <img src="/images/logos/logo-uh.png" alt="University of Houston Logo">
+      <figcaption class="text-center">
+        <a href="http://www.uh.edu/">http://www.uh.edu/</a>
       </figcaption>
     </figure>
   </div>
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-uvic.png" alt="University of Victoria Logo"></a>
-      <figcaption class="text-right">
-        <a href="https://www.uvic.ca/">University of Victoria</a>
+      <img src="/images/logos/logo-uvic.png" alt="University of Victoria Logo">
+      <figcaption class="text-center">
+        <a href="https://www.uvic.ca/">https://www.uvic.ca/</a>
       </figcaption>
     </figure>
   </div>
@@ -33,17 +33,17 @@ header: no
 <div class="row">
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-um.png" alt="University of Miami Logo"></a>
-      <figcaption class="text-right">
-        <a href="https://welcome.miami.edu/">University of Miami</a>
+      <img src="/images/logos/logo-um.png" alt="University of Miami Logo">
+      <figcaption class="text-center">
+        <a href="https://welcome.miami.edu/">https://welcome.miami.edu/</a>
       </figcaption>
     </figure>
   </div>
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-iupui.png" alt="Indiana University-Purdue University Indianapolis Logo"></a>
-      <figcaption class="text-right">
-        <a href="https://www.iupui.edu/">Indiana University-Purdue University Indianapolis</a>
+      <img src="/images/logos/logo-iupui.png" alt="Indiana University-Purdue University Indianapolis Logo">
+      <figcaption class="text-center">
+        <a href="https://www.iupui.edu/">https://www.iupui.edu/</a>
       </figcaption>
     </figure>
   </div>
@@ -58,17 +58,17 @@ header: no
 <div class="row">
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-stanford.png" alt="Stanford University Logo"></a>
-      <figcaption class="text-right">
-        <a href="https://www.stanford.edu/">Stanford University</a>
+      <img src="/images/logos/logo-stanford.png" alt="Stanford University Logo">
+      <figcaption class="text-center">
+        <a href="https://www.stanford.edu/">https://www.stanford.edu/</a>
       </figcaption>
     </figure>
   </div>
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-iu.png" alt="Indiana University Logo"></a>
-      <figcaption class="text-right">
-        <a href="https://www.indiana.edu/">Indiana University</a>
+      <img src="/images/logos/logo-iu.png" alt="Indiana University Logo">
+      <figcaption class="text-center">
+        <a href="https://www.indiana.edu/">https://www.indiana.edu/</a>
       </figcaption>
     </figure>
   </div>
@@ -76,17 +76,17 @@ header: no
 <div class="row">
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-dpla.png" alt="Digital Public Library of America Logo"></a>
-      <figcaption class="text-right">
-        <a href="https://dp.la/">Digital Public Library of America</a>
+      <img src="/images/logos/logo-dpla.png" alt="Digital Public Library of America Logo">
+      <figcaption class="text-center">
+        <a href="https://dp.la/">https://dp.la/</a>
       </figcaption>
     </figure>
   </div>
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-duraspace.png" alt="DuraSpace Logo"></a>
-      <figcaption class="text-right">
-        <a href="http://duraspace.org/">DuraSpace</a>
+      <img src="/images/logos/logo-duraspace.png" alt="DuraSpace Logo">
+      <figcaption class="text-center">
+        <a href="http://duraspace.org/">http://duraspace.org/</a>
       </figcaption>
     </figure>
   </div>
@@ -102,9 +102,9 @@ header: no
 <div class="row">
   <div class="large-6 columns">
     <figure>
-      <img src="/images/logos/logo-imls.png" alt="Institute of Museum and Library Services Logo"></a>
-      <figcaption class="text-right">
-        <a href="https://www.imls.gov/">Institute of Museum and Library Services</a>
+      <img src="/images/logos/logo-imls.png" alt="Institute of Museum and Library Services Logo">
+      <figcaption class="text-center">
+        <a href="https://www.imls.gov/">https://www.imls.gov/</a>
       </figcaption>
     </figure>
   </div>
