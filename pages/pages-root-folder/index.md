@@ -8,20 +8,20 @@ layout: frontpage
 header:
   image_fullwidth: header_roadmap_2.jpg
 widget1:
-  title: "Project Partners"
-  url: '/partners/'
+  title: "Migration Planning"
+  url: '/migration/'
   image: widget-slack-302x182.jpg
-  text: 'Bridge2Hyku is a project by The University of Houston (UH) Libraries, in partnership and consultation with Indiana University at Bloomington (IUB) and Indiana University-Purdue University Indianapolis (IUPUI), The University of Victoria (UVic), and the University of Miami (UM).'
+  text: 'Migrating data from one repository to another is no easy task. Start here to learn more about how to assess your current repository content and prepare it for a move to another system.'
 widget2:
   title: "Toolkit"
-  url: 'https://github.com/Bridge2Hyku'
+  url: '/toolkit/'
   image: widget-github-303x182.jpg
-  text: 'Our toolkit will be open-source and available on github. We hope to have tools ready for community use by late 2018'
+  text: 'The Bridge2Hyku toolkit is open-source software and freely available on Github. Use these tools to analyze your descriptive metadata and migrate your repository content to Hyku.'
 widget3:
   title: "Hyku"
   url: '/hyku/'
   image: widget-books-302x182.jpg
-  text: 'Are you looking for an open-source platform for your digital library or institutional repository? <em>Hyku</em> offers a hyrax-in-a-box system to let you hit the ground running.'
+  text: 'Hyku offers a turnkey repository system that is easy to use and maintain. Learn more about what Hyku offers in order to decide if it is the right fit for your institution.'
 
 callforaction:
   url: '/survey/'

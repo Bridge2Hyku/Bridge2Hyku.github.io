@@ -2,28 +2,35 @@
   url: "/"
   side: left
 
-- title: About
-  url: "/info/"
+- title: "Migration"
+  url: "/migration/"
   side: left
   dropdown:
-  - title: "Hyku"
-    url: "/hyku/"
+  - title: "Survey"
+    url: "/survey/"
 
-- title: Partners
-  url: "/partners/"
+- title: "Toolkit"
+  url: "/toolkit/"
+  side: left
+
+- title: "Hyku"
+  url: "/hyku/"
   side: left
 
 - title: "Blog"
   url: "/blog/archive/"
   side: left
 
-- title: "Migration Survey"
-  url: "/survey/"
-  side: right
-
 - title: "Search"
   url: "/search/"
   side: right
+
+- title: About
+  url: "/about/"
+  side: right
+  dropdown:
+  - title: Project Partners
+    url: "/partners/"
 
 - title: "Contact"
   url: "/contact/"

@@ -3,7 +3,7 @@ layout: page
 title: "About"
 subheadline: "learn more about Hyku"
 teaser: "Bridge2Hyku is a IMLS-funded grant project to help build community and documentation around migrating to Hyku"
-permalink: "/info/"
+permalink: "/about/"
 header:
     image_fullwidth: "header_unsplash_8.jpg"
 ---

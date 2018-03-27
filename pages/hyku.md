@@ -2,8 +2,7 @@
 layout: page-fullwidth
 title: "Hyku"
 subheadline:
-teaser: "We're here to help you decide if Hyku is the right choice for your repository"
-permalink: "/info/"
+teaser: "Learn about what Hyku offers for your institution"
 header:
     image_fullwidth: "header_unsplash_8.jpg"
 permalink: "/hyku/"
