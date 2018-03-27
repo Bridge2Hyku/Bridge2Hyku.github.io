@@ -104,8 +104,7 @@ header: no
     <figure>
       <img src="/images/logos/logo-imls.png" alt="Institute of Museum and Library Services Logo">
       <figcaption class="text-left">
-        <a href="https://www.imls.gov/">https://www.imls.gov/</a></br>
-        <a href="https://www.imls.gov/grants/awarded/lg-70-17-0217-17">Grant LG-70-17-0217-17</a>
+        <a href="https://www.imls.gov/">https://www.imls.gov/</a>  |  <a href="https://www.imls.gov/grants/awarded/lg-70-17-0217-17">LG-70-17-0217-17</a>
       </figcaption>
     </figure>
   </div>
