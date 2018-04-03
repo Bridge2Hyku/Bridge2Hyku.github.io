@@ -20,7 +20,7 @@ permalink: "/migration/"
 
 ## Getting Started {#getting-started}
 
-Thinking about upgrading your Digital Library? Watch this recent (march 2018) webinar by Duraspace: <a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">"Open Source Repository Upgrades: Top Advice from Practitioners"</a>.
+Thinking about upgrading your Digital Library? Watch this recent (March 2018) webinar by Duraspace: <a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">"Open Source Repository Upgrades: Top Advice from Practitioners</a>."
 
 ## Migration Process {#migration-process}
 
