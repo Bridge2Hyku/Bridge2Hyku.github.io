@@ -24,7 +24,7 @@ ContentDM, Rosetta, Islandora, Invenio, Roda, Hyrax, Hyku... there's a lot of ch
 
 ## Hyku as a Digital National Platform {#hyku-platform}
 
-Hyku, AKA Hydra-In-a-Box, was built as a part of the Institute for Museum and Library Services' <a href="https://www.imls.gov/issues/national-issues/national-digital-platform">National Digital Platform</a> initiatve. It strives to be <a href="http://hydrainabox.samvera.org/">a feature-rich, robust, flexible digital repository that is easy to install, configure, and maintain."</a>
+Hyku, AKA Hydra-In-a-Box, was built as a part of the Institute for Museum and Library Services' <a href="https://www.imls.gov/issues/national-issues/national-digital-platform">National Digital Platform</a> initiatve. It strives to be <a href="http://hydrainabox.samvera.org/">"a feature-rich, robust, flexible digital repository that is easy to install, configure, and maintain."</a>
 
 ## Hyku Features {#features}
 
