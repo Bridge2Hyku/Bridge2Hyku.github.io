@@ -51,7 +51,7 @@ header: no
 
 <div class="row">
     <div class="small-12 columns">
-        <h2>Project Advisors</h2>
+        <h2>Technical Advisors</h2>
     </div><!-- /.small-12.columns -->
 </div>
 
