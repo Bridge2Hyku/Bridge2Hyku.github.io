@@ -24,7 +24,6 @@ header: no
           Todd Crocken <i>Content Strategist</i><br>
           Sean Watkins <i>Software Developer</i><br>
           Anne Washington <i>Migration Strategist</i><br>
-          
       </figcaption>
     </figure>
   </div>
@@ -44,7 +43,9 @@ header: no
     <figure>
       <img src="/images/logos/logo-um.png" alt="University of Miami Logo">
       <figcaption class="text-left">
-        <a href="https://welcome.miami.edu/">https://welcome.miami.edu</a>
+        <a href="https://welcome.miami.edu/">https://welcome.miami.edu</a><br>
+          Paul Clough <i>Software Developer</i><br>
+          Elliot Williams <i>Migration Strategist</i>
       </figcaption>
     </figure>
   </div>
@@ -52,7 +53,10 @@ header: no
     <figure>
       <img src="/images/logos/logo-iupui.png" alt="Indiana University-Purdue University Indianapolis Logo">
       <figcaption class="text-left">
-        <a href="https://www.iupui.edu/">https://www.iupui.edu</a>
+        <a href="https://www.iupui.edu/">https://www.iupui.edu</a><br>
+          Andy Smith <i>Software Developer</i><br>
+          Kristi Palmer <i>Migration Strategist</i><br>
+          Richard Wing <i>Migration Strategist</i>
       </figcaption>
     </figure>
   </div>
@@ -69,7 +73,9 @@ header: no
     <figure>
       <img src="/images/logos/logo-stanford.png" alt="Stanford University Logo">
       <figcaption class="text-left">
-        <a href="https://www.stanford.edu/">https://www.stanford.edu</a>
+        <a href="https://www.stanford.edu/">https://www.stanford.edu</a><br>
+          Christina Harlow <i>Hyku Metadata Advisor</i><br>
+          Mike Giarlo <i>Hyku Functional Requirements Advisor</i>
       </figcaption>
     </figure>
   </div>
@@ -77,7 +83,8 @@ header: no
     <figure>
       <img src="/images/logos/logo-iu.png" alt="Indiana University Logo">
       <figcaption class="text-left">
-        <a href="https://www.indiana.edu/">https://www.indiana.edu</a>
+        <a href="https://www.indiana.edu/">https://www.indiana.edu</a><br>
+          Julie Hardesty <i>Hyku Metadata Advisor</i>
       </figcaption>
     </figure>
   </div>
