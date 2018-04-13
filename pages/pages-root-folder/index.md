@@ -10,7 +10,7 @@ header:
 widget1:
   title: "Migration Planning"
   url: '/migration/'
-  image: widget-slack-302x182.jpg
+  image: widget-map-302x182.jpg
   text: 'Migrating data from one repository to another is no easy task. Start here to learn more about how to assess your current repository content and prepare it for a move to another system.'
 widget2:
   title: "Software Toolkit"
@@ -20,7 +20,7 @@ widget2:
 widget3:
   title: "About Hyku"
   url: '/hyku/'
-  image: widget-books-302x182.jpg
+  image: widget-wireframe-302x182.jpg
   text: 'Hyku offers a turnkey repository system that is easy to use and maintain. Learn more about what Hyku offers in order to decide if it is the right fit for your institution.'
 
 callforaction:
