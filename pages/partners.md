@@ -73,6 +73,13 @@ header: no
     </figure>
   </div>
 </div>
+
+<div class="row">
+    <div class="small-12 columns">
+        <h2>Community Stakeholders</h2>
+    </div><!-- /.small-12.columns -->
+</div>
+
 <div class="row">
   <div class="large-6 columns">
     <figure>
