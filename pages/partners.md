@@ -17,7 +17,7 @@ header: no
     <figure>
       <img src="/images/logos/logo-uh.png" alt="University of Houston Logo">
       <figcaption class="text-left">
-        <a href="http://www.uh.edu/">http://www.uh.edu</a>
+        <a href="http://www.uh.edu/">http://www.uh.edu</a><br>
           Annie Wu <i>Project Directors</i><br>
           Santi Thompson<br><br>
           Andy Weidner <i>Project Manager</i><br>
@@ -32,7 +32,7 @@ header: no
     <figure>
       <img src="/images/logos/logo-uvic.png" alt="University of Victoria Logo">
       <figcaption class="text-left">
-        <a href="https://www.uvic.ca/">https://www.uvic.ca</a>
+        <a href="https://www.uvic.ca/">https://www.uvic.ca</a><br>
           Braydon Justice <i>Software Developer</i><br>
           Dean Seeman <i>Migration Strategist</i>
       </figcaption>
