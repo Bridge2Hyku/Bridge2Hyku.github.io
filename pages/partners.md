@@ -18,13 +18,13 @@ header: no
       <img src="/images/logos/logo-uh.png" alt="University of Houston Logo">
       <figcaption class="text-left">
         <a href="http://www.uh.edu/">http://www.uh.edu</a>
-          Annie Wu <i>Project Directors</i>
-          Santi Thompson
-          
-          Andy Weidner <i>Project Manager</i>
-          Todd Crocken <i>Content Strategist</i>
-          Sean Watkins <i>Software Developer</i>
-          Anne Washington <i>Migration Strategist</i>
+          Annie Wu <i>Project Directors</i><br>
+          Santi Thompson<br><br>
+        
+          Andy Weidner <i>Project Manager</i><br>
+          Todd Crocken <i>Content Strategist</i><br>
+          Sean Watkins <i>Software Developer</i><br>
+          Anne Washington <i>Migration Strategist</i><br>
           
       </figcaption>
     </figure>
@@ -34,7 +34,7 @@ header: no
       <img src="/images/logos/logo-uvic.png" alt="University of Victoria Logo">
       <figcaption class="text-left">
         <a href="https://www.uvic.ca/">https://www.uvic.ca</a>
-          Braydon Justice <i>Software Developer</i>
+          Braydon Justice <i>Software Developer</i><br>
           Dean Seeman <i>Migration Strategist</i>
       </figcaption>
     </figure>
