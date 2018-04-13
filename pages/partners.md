@@ -20,7 +20,6 @@ header: no
         <a href="http://www.uh.edu/">http://www.uh.edu</a>
           Annie Wu <i>Project Directors</i><br>
           Santi Thompson<br><br>
-        
           Andy Weidner <i>Project Manager</i><br>
           Todd Crocken <i>Content Strategist</i><br>
           Sean Watkins <i>Software Developer</i><br>
