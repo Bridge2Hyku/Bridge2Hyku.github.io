@@ -18,9 +18,8 @@ header: no
       <img src="/images/logos/logo-uh.png" alt="University of Houston Logo">
       <figcaption class="text-left">
         <a href="http://www.uh.edu/">http://www.uh.edu</a><br>
-          <i>Project Directors</i><br>
-          Annie Wu<br>
-          Santi Thompson<br><br>
+          Annie Wu <i>Principal Investigator</i><br>
+          Santi Thompson <i>Principal Investigator</i><br>
           Andy Weidner <i>Project Manager</i><br>
           Todd Crocken <i>Content Strategist</i><br>
           Sean Watkins <i>Software Developer</i><br>
