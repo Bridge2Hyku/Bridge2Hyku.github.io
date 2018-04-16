@@ -19,10 +19,6 @@
 
 - title: "Blog"
   url: "/blog/archive/"
-  side: left
-
-- title: "Search"
-  url: "/search/"
   side: right
 
 - title: About
