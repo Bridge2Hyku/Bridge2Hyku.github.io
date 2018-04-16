@@ -1,4 +1,9 @@
-- menu_name: "Thanks"
+- menu_name: "Credits"
+
+- name: "Bridge2Hyku Project Partners"
+  url: "/partners/"
+  class: "internal-link"
+  title: "Bridge2Hyku Project Partners"
 
 - name: "Icons by Daniel Bruce"
   url: "http://entypo.com/"
