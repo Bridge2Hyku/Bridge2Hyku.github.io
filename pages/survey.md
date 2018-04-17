@@ -73,7 +73,7 @@ Access file types
 - pdf
 - Other
 
-Who are the primary stakeholders for your digital collections?
+Who are the primary stakeholders for your digital collections?<br>
 this may include particualr departments in your organization, organization administration, community organizations, etc. 
 
 Which of these best describe the intended audience(s) for your digital collections?
@@ -87,7 +87,7 @@ Which of these best describe the intended audience(s) for your digital collectio
 - General public
 - Other
 
-Describe the administration surrounding your digital collections
+Describe the administration surrounding your digital collections<br>
 What structures, committees, etc. are in place related to the administration of digital collections? This may include individuals or groups that create policy, have technical administrative control over the repository, etc.
 
 ### Repositories
@@ -102,10 +102,10 @@ What system(s) are used to manage the digital collections to be migrated?
 - Locally developed solution
 - Other
 
-Describe your digital collection system dependencies
+Describe your digital collection system dependencies<br>
 Describe the systems involved and how they interact. For example, the ILS pulls digital collection data from an API, etc.
 
-Describe the data model(s) supported by your your current repository
+Describe the data model(s) supported by your your current repository<br>
 Consider describing the most complex object you have in your repository. How many levels of hierarchy does it have? Is metadata stored for each level?
 
 ### Metadata
@@ -120,7 +120,7 @@ Which metadata schema(s) are used in your digital collections?
 - Local metadata schema
 - Other
 
-Are the same metadata elements used across your digital collections? 
+Are the same metadata elements used across your digital collections?<br>
 If no, describe how metadata elements differe across collections.
 
 Which controlled vocabularies are used in your digital collections?
@@ -138,21 +138,21 @@ Which controlled vocabularies are used in your digital collections?
 - Local controlled vocabluary
 - Other
 
-Do you have local metadata input guidelines and/or a Metadata Application Profile?
+Do you have local metadata input guidelines and/or a Metadata Application Profile?<br>
 If yes, please provide a link to your documentation if available. 
 
-Have metadata values been entered consistently across your digital collections?
+Have metadata values been entered consistently across your digital collections?<br>
 If no, describe how values differ across collections.
 
-Does your metadata, elements and/or values, align with any other standards or best practices?
+Does your metadata, elements and/or values, align with any other standards or best practices?<br>
 For example, does it align with the DPLA metadata application profile? DACS?
 
-How do you indicate copyright in your digital collections?
+How do you indicate copyright in your digital collections?<br>
 Describe the metadata field(s) used, controlled vocabulary used (if applicable), and any other practices around rights metadata.
 
 ### Workflow
 
-Describe the process at your institution for creating a new digital collection
+Describe the process at your institution for creating a new digital collection<br>
 Please include general information about the process as well as the positions and departments that are involved. Examples of points to include are: the number and positions of those who add digital objects and metadata, whether there is centralized and/or formalized control over ingest and metadata production, etc.
 
 Is digital preservation part of your digital collections workflow?
@@ -161,7 +161,7 @@ Is digital preservation part of your digital collections workflow?
 
 What system(s) will you be migrating your digital collections to?
 
-Describe the data model(s) supported by the target repository
+Describe the data model(s) supported by the target repository<br>
 Include description or link to repository data model documentation. Consider describing the most complex object supported by the repository. How many levels of hierarchy does it have? Is metadata stored for each level?
 
 Which metadata schema(s) will be uses in the target repository?
@@ -189,7 +189,7 @@ Which controlled vocabularies will be used in the target repository?
 - Local controlled vocabluary
 - Other
 
-Describe the digital collections rework you plan to undertake before, during, or after the migration process
+Describe the digital collections rework you plan to undertake before, during, or after the migration process<br>
 For example, metadata rework, file management rework, etc.
 
 Number of staff/librarians supporting migration (FTE)
