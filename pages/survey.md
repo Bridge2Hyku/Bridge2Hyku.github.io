@@ -18,6 +18,8 @@ No answers are required, so fill out what you can. Every response gets us closer
 
 ## Survey Questions
 
+On the fence about starting the survey before knowing if you have all the answers at hand? The current questions are below for easy reference. 
+
 ### Institutional Characteristics
 
 What best characterizes your institution's type?
@@ -42,3 +44,22 @@ Number of IT staff/librarians (FTE)
 Approximately what number of FTE of local IT staff/librarians time is devoted to digital collection management per year?
 
 Annual Library Budget
+
+### Digital Collections
+
+Number of digital collections to be migrated
+
+Number of digital objects to be migrated
+
+Total size (TB) of digital objects to be migrated
+
+Work Types
+- Single sided photograph
+- Single sided document
+- Multi-page document
+- Single audio
+- Multi-part audio
+- Single video
+- Multi-part video file
+- Hierarchical work
+- Multiple file types (e.g. audio/video file with image or PDF)
