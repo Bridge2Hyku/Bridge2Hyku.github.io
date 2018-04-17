@@ -120,5 +120,83 @@ Which metadata schema(s) are used in your digital collections?
 - Local metadata schema
 - Other
 
-Are the same metadata elements used across your digital collections?
+Are the same metadata elements used across your digital collections? 
 If no, describe how metadata elements differe across collections.
+
+Which controlled vocabularies are used in your digital collections?
+- Library of Congress Name Authority File (LCNAF)
+- Library of Congress Subject Headings (LCSH)
+- Thesarus for Graphic Materials (TGM)
+- MARC Relators
+- DCMI Type Vocabulary
+- Art and Architecture Thesaurus (AAT)
+- Union List of Arist Names (ULAN)
+- GeoNames
+- Medical Subject Headings (MeSH)
+- MARC List of Languages
+- ISO 639 Language codes
+- Local controlled vocabluary
+- Other
+
+Do you have local metadata input guidelines and/or a Metadata Application Profile?
+If yes, please provide a link to your documentation if available. 
+
+Have metadata values been entered consistently across your digital collections?
+If no, describe how values differ across collections.
+
+Does your metadata, elements and/or values, align with any other standards or best practices?
+For example, does it align with the DPLA metadata application profile? DACS?
+
+How do you indicate copyright in your digital collections?
+Describe the metadata field(s) used, controlled vocabulary used (if applicable), and any other practices around rights metadata.
+
+### Workflow
+
+Describe the process at your institution for creating a new digital collection
+Please include general information about the process as well as the positions and departments that are involved. Examples of points to include are: the number and positions of those who add digital objects and metadata, whether there is centralized and/or formalized control over ingest and metadata production, etc.
+
+Is digital preservation part of your digital collections workflow?
+
+### Migration
+
+What system(s) will you be migrating your digital collections to?
+
+Describe the data model(s) supported by the target repository
+Include description or link to repository data model documentation. Consider describing the most complex object supported by the repository. How many levels of hierarchy does it have? Is metadata stored for each level?
+
+Which metadata schema(s) will be uses in the target repository?
+- Dublin Core
+- MODS
+- MARC
+- EAD
+- PB Core
+- VRA Core
+- Local metadata schema
+- Other
+
+Which controlled vocabularies will be used in the target repository?
+- Library of Congress Name Authority File (LCNAF)
+- Library of Congress Subject Headings (LCSH)
+- Thesarus for Graphic Materials (TGM)
+- MARC Relators
+- DCMI Type Vocabulary
+- Art and Architecture Thesaurus (AAT)
+- Union List of Arist Names (ULAN)
+- GeoNames
+- Medical Subject Headings (MeSH)
+- MARC List of Languages
+- ISO 639 Language codes
+- Local controlled vocabluary
+- Other
+
+Describe the digital collections rework you plan to undertake before, during, or after the migration process
+For example, metadata rework, file management rework, etc.
+
+Number of staff/librarians supporting migration (FTE)
+
+Departments of staff/librarians supporting migration
+
+Describe the timeline established for completing the migration
+
+
+
