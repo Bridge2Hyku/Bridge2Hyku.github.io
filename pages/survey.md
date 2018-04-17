@@ -63,3 +63,62 @@ Work Types
 - Multi-part video file
 - Hierarchical work
 - Multiple file types (e.g. audio/video file with image or PDF)
+- Other
+
+Access file types
+- jpeg
+- tif
+- mp4
+- wav
+- pdf
+- Other
+
+Who are the primary stakeholders for your digital collections?
+this may include particualr departments in your organization, organization administration, community organizations, etc. 
+
+Which of these best describe the intended audience(s) for your digital collections?
+- Undergraduate students
+- Graudate students
+- Faculty/Instructors
+- Librarians and library staff
+- University staff
+- University alumni
+- Non-university affliated researchers
+- General public
+- Other
+
+Describe the administration surrounding your digital collections
+What structures, committees, etc. are in place related to the administration of digital collections? This may include individuals or groups that create policy, have technical administrative control over the repository, etc.
+
+### Repositories
+
+What system(s) are used to manage the digital collections to be migrated?
+- CONTENTdm
+- DSpace
+- Islandora
+- Sufia
+- Avalon
+- ILS
+- Locally developed solution
+- Other
+
+Describe your digital collection system dependencies
+Describe the systems involved and how they interact. For example, the ILS pulls digital collection data from an API, etc.
+
+Describe the data model(s) supported by your your current repository
+Consider describing the most complex object you have in your repository. How many levels of hierarchy does it have? Is metadata stored for each level?
+
+### Metadata
+
+Which metadata schema(s) are used in your digital collections?
+- Dublin Core
+- MODS
+- MARC
+- EAD
+- PB Core
+- VRA Core
+- Local metadata schema
+- Other
+
+Are the same metadata elements used across your digital collections?
+If no, describe how metadata elements differe across collections.
