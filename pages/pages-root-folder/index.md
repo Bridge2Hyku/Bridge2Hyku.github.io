@@ -13,19 +13,19 @@ widget1:
   image: widget-slack-302x182.jpg
   text: 'Migrating data from one repository to another is no easy task. Start here to learn more about how to assess your current repository content and prepare it for a move to another system.'
 widget2:
-  title: "Toolkit"
+  title: "Data Toolkit"
   url: '/toolkit/'
   image: widget-github-303x182.jpg
   text: 'The Bridge2Hyku toolkit is open-source software and freely available on Github. Use these tools to analyze your descriptive metadata and migrate your repository content to Hyku.'
 widget3:
-  title: "Hyku"
+  title: "Hyku Features"
   url: '/hyku/'
   image: widget-books-302x182.jpg
   text: 'Hyku offers a turnkey repository system that is easy to use and maintain. Learn more about what Hyku offers in order to decide if it is the right fit for your institution.'
 
 callforaction:
   url: '/survey/'
-  text: 'Learn about our Migration Survey ›'
+  text: 'Learn about our Digital Collections Survey ›'
   style: alert
 permalink: /index.html
 #
