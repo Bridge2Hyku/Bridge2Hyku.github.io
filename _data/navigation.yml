@@ -16,21 +16,17 @@
 - title: "Hyku"
   url: "/hyku/"
   side: left
-
-- title: "Blog"
-  url: "/blog/archive/"
-  side: left
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
+  
 - title: About
   url: "/about/"
   side: right
   dropdown:
   - title: Project Partners
     url: "/partners/"
+
+- title: "Blog"
+  url: "/blog/archive/"
+  side: right
 
 - title: "Contact"
   url: "/contact/"
