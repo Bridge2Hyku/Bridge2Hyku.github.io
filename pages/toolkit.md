@@ -19,13 +19,18 @@ permalink: "/toolkit/"
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Data Migration {#data-migration}
+The tools below are available to help get your content out of CONTENTdm 
 
+### CDM-Migrate {#cdm-migrate}
+This migrator is designed to export individual ContentDM collections to a CSV for refining. It then allows batch importing into Hyrax via a CSV upload. Developed at University of Victoria, currently <a href="https://github.com/UVicLibrary/cdm_migrator">available on github</a>.
 
-## CDM-Migrate {#cdm-migrate}
+### Hunting {#hunting}
+A Ruby gem for pulling metadata and info from CONTENTdm. Developed by Andy Weider (University of Houston). 
 
+## Metadata Remediation
 
-## Hunting {#hunting}
-
+### OpenRefine
+A powerful open source app that allows users to make sense of messy data. <a href="http://openrefine.org/">http://openrefine.org/</a>.
 
 {% include _improve_content.html %}
 </div><!-- /.medium-8.columns -->
