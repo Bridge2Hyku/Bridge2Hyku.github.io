@@ -25,7 +25,7 @@ Are you looking to migrate your digital collections? We would love to hear from 
 
 No answers are required, so fill out what you can. Every response gets us closer to the actual needs of the community regarding repository migrations.  
 
-### <a href="https://t.co/NoPMvtxtWX">Take the Bridge2Hyku Digital Collections Survey</a>
+<strong><a href="https://t.co/NoPMvtxtWX">Click here to take the Bridge2Hyku Digital Collections Survey</a></strong>
 
 ## Survey Questions
 
