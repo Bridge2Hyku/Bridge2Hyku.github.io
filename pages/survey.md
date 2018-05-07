@@ -17,6 +17,7 @@ permalink: "/survey/"
 </div>
 </div><!-- /.medium-4.columns -->
 
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## About the Digital Collections Survey
 
@@ -28,7 +29,7 @@ No answers are required, so fill out what you can. Every response gets us closer
 
 ## Survey Questions
 
-On the fence about starting the survey before knowing if you have all the answers at hand? The current questions are below for easy reference. 
+On the fence about starting the survey before knowing if you have all the answers at hand? The current questions are below for easy reference.
 
 ### Institutional Characteristics
 
@@ -84,7 +85,7 @@ Access file types
 - Other
 
 Who are the primary stakeholders for your digital collections?<br>
-this may include particualr departments in your organization, organization administration, community organizations, etc. 
+this may include particualr departments in your organization, organization administration, community organizations, etc.
 
 Which of these best describe the intended audience(s) for your digital collections?
 - Undergraduate students
@@ -149,7 +150,7 @@ Which controlled vocabularies are used in your digital collections?
 - Other
 
 Do you have local metadata input guidelines and/or a Metadata Application Profile?<br>
-If yes, please provide a link to your documentation if available. 
+If yes, please provide a link to your documentation if available.
 
 Have metadata values been entered consistently across your digital collections?<br>
 If no, describe how values differ across collections.
@@ -208,5 +209,5 @@ Departments of staff/librarians supporting migration
 
 Describe the timeline established for completing the migration
 
-
-
+</div>
+</div>
