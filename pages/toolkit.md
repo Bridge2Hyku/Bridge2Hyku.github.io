@@ -27,9 +27,9 @@ This migrator is designed to export individual ContentDM collections to a CSV fo
 ### Hunting {#hunting}
 A Ruby gem for pulling metadata and info from CONTENTdm. Developed by Andy Weider (University of Houston). 
 
-## Metadata Remediation
+## Metadata Remediation {#metadata-remediation}
 
-### OpenRefine
+### OpenRefine {#openrefine}
 A powerful open source app that allows users to make sense of messy data. <a href="http://openrefine.org/">http://openrefine.org/</a>.
 
 {% include _improve_content.html %}
