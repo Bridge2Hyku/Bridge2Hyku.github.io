@@ -37,11 +37,11 @@ These are just some of the features listed in Hyku's <a href="https://wiki.duras
 * <strong>DPLA ready</strong> – Crosswalks directly to DPLA Metadata Application Profile v4.
 * <strong>Faceted search and browse</strong> – Powered by Blacklight, an intuitive interface makes it easy to search and find content quickly.
 
-### Institutional Repository {institutional-repository}
+## Institutional Repository {institutional-repository}
 
 Hyku is a good fit for institutional repository use cases, with out of the box support for self-deposit workflows and robust access controls.
 
-### Cultural Heritage Repository {#cultural-heritage}
+## Cultural Heritage Repository {#cultural-heritage}
 
 The Hyku development community is still working on adding functionality for cultural heritage use cases. The Hyku Pilot that occured in 2017 included a <a href="https://docs.google.com/document/d/1mpYLs2pqwKDCCxF0Kb-JTC4OjPLgmbJ6d1IBunxHqAw/edit?usp=sharing">gap assessment document</a> that should help determine whether or not Hyku is a good fit for your institution.
 
