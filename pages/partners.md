@@ -32,6 +32,7 @@ header: no
       <img src="/images/logos/logo-uvic.png" alt="University of Victoria Logo">
       <figcaption class="text-left">
         <a href="https://www.uvic.ca/">https://www.uvic.ca</a><br>
+          Lisa Goddard <i>Advisory Board Member</i><br>
           Braydon Justice <i>Software Developer</i><br>
           Dean Seeman <i>Migration Strategist</i>
       </figcaption>
@@ -44,6 +45,7 @@ header: no
       <img src="/images/logos/logo-um.png" alt="University of Miami Logo">
       <figcaption class="text-left">
         <a href="https://welcome.miami.edu/">https://welcome.miami.edu</a><br>
+          Sarah Shreeves <i>Advisory Board Member</i><br>
           Paul Clough <i>Software Developer</i><br>
           Elliot Williams <i>Migration Strategist</i>
       </figcaption>
@@ -54,6 +56,7 @@ header: no
       <img src="/images/logos/logo-iupui.png" alt="Indiana University-Purdue University Indianapolis Logo">
       <figcaption class="text-left">
         <a href="https://www.iupui.edu/">https://www.iupui.edu</a><br>
+          Chip Dye <i>Advisory Board Member</i><br>
           Andy Smith <i>Software Developer</i><br>
           Kristi Palmer <i>Migration Strategist</i><br>
           Richard Wing <i>Migration Strategist</i>
@@ -74,8 +77,10 @@ header: no
       <img src="/images/logos/logo-stanford.png" alt="Stanford University Logo">
       <figcaption class="text-left">
         <a href="https://www.stanford.edu/">https://www.stanford.edu</a><br>
-          Christina Harlow <i>Hyku Metadata Advisor</i><br>
-          Mike Giarlo <i>Hyku Functional Requirements Advisor</i>
+          Tom Cramer <i>Advisory Board Member</i><br>
+          Hannah Frost <i>Advisory Board Member</i><br>
+          Mike Giarlo <i>Hyku Functional Requirements Advisor</i><br>
+          Christina Harlow <i>Hyku Metadata Advisor</i>
       </figcaption>
     </figure>
   </div>
@@ -84,6 +89,7 @@ header: no
       <img src="/images/logos/logo-iu.png" alt="Indiana University Logo">
       <figcaption class="text-left">
         <a href="https://www.indiana.edu/">https://www.indiana.edu</a><br>
+          Jon Dunn <i>Advisory Board Member</i><br>
           Julie Hardesty <i>Hyku Metadata Advisor</i>
       </figcaption>
     </figure>
@@ -101,7 +107,8 @@ header: no
     <figure>
       <img src="/images/logos/logo-dpla.png" alt="Digital Public Library of America Logo">
       <figcaption class="text-left">
-        <a href="https://dp.la/">https://dp.la</a>
+        <a href="https://dp.la/">https://dp.la</a><br>
+        Michele Kimpton <i>Advisory Board Member</i>
       </figcaption>
     </figure>
   </div>
@@ -109,7 +116,10 @@ header: no
     <figure>
       <img src="/images/logos/logo-duraspace.png" alt="DuraSpace Logo">
       <figcaption class="text-left">
-        <a href="http://duraspace.org/">http://duraspace.org</a>
+        <a href="http://duraspace.org/">http://duraspace.org</a><br>         
+          Debra Hanken Kurtz <i>Advisory Board Member</i><br>
+          David Wilcox <i>Advisory Board Member</i><br>
+          Erin Tripp <i>Advisory Board Member</i>
       </figcaption>
     </figure>
   </div>
