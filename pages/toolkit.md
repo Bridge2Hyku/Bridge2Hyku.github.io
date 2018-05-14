@@ -22,7 +22,7 @@ permalink: "/toolkit/"
 
 The tools below are available to help get your content out of CONTENTdm 
 
-## CDM-Migrate {#cdm-migrate}
+## CDM-Migrator {#cdm-migrator}
 
 This migrator is designed to export individual ContentDM collections to a CSV for refining. It then allows batch importing into Hyrax via a CSV upload. Developed at University of Victoria, currently <a href="https://github.com/UVicLibrary/cdm_migrator">available on github</a>.
 
