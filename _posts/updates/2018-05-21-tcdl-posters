@@ -1,0 +1,33 @@
+---
+layout: page
+#
+# Content
+#
+title: "Our Posters at TCDL 2018"
+teaser: "The Bridge2Hyku partners at UH presented two posters at the Texas Conference on Digital Libraries"
+categories:
+  - updates
+tags:
+  - TCDL
+  - Presentations
+  - Phase 1
+#
+# Styling
+#
+header: no
+breadcrumbs: yes
+image:
+    title: getting-started-title.jpg
+    thumb: getting-started-thumb.jpg
+    homepage: getting-started-home.jpg
+---
+
+## Finishing up Phase 1
+
+While tying up the loose ends on Bridge2Hyku's Phase 1, we created and presented two posters for TCDL's Minute Madness session.
+
+### You Are Not Alone: Statistics from Bridge2Hyku’s digital collections environment data collection survey
+This poster includes 6 graphs and 3 data-points from our forthcoming Digital Collections Survey Report. (Waiting for IR link)
+
+### Lessons from Bridge2Hyku Phase One
+A brief overview of Phase 1 and what will be occurring in Phase 2. 
