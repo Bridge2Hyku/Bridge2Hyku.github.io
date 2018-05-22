@@ -17,14 +17,14 @@ tags:
 header: no
 breadcrumbs: yes
 image:
-    title: getting-started-title.jpg
-    thumb: getting-started-thumb.jpg
-    homepage: getting-started-home.jpg
+    title: tcdl-posters-title.jpg
+    thumb: tcdl-posters-thumb.jpg
+    homepage: tcdl-posters-home.jpg
 ---
 
 ## Finishing up Phase 1
 
-While tying up the loose ends on Bridge2Hyku's Phase 1, we created and presented two posters for TCDL's Minute Madness session.
+While tying up the loose ends on Bridge2Hyku's Phase 1, we created and presented two posters for TCDL's Minute Madness session. Todd Crocken presented "You Are Not Alone", while Anne Washington presented "Lessons from Bridge2Hyku Phase 1".  
 
 ### <a href="http://hdl.handle.net/10657/3058">You Are Not Alone: Statistics from Bridge2Hyku’s digital collections environment data collection survey</a>
 This poster includes 6 graphs and 3 data-points from our forthcoming Digital Collections Survey Report. <br><br>
