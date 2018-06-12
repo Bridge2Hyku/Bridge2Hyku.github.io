@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 title: "Open Source vs Proprietary Platforms"
-teaser: "A list of links and articles discussing the pros and cons of platform types"
+teaser: "The pros and cons of this difficult decision"
 categories:
   - updates
 tags:
@@ -32,7 +32,7 @@ Librarian Carol Bean’s <a href="https://beanworks.clbean.com/2010/04/30/compar
 > you will be involved in user forums, in bug fix requests, in creating (or updating) documentation, in training, in local tweaking,
 > with or without outside help.  Proprietary systems are currently asking between $10,000 and $20,000 per year for a (relatively) small > archive, from what I have seen and heard.
 
-In the code4lib journal article <a href="http://journal.code4lib.org/articles/8327">“Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source” by Heather Gilbert and Tyler Mobley</a>, they reiterate Carol’s cost issues with proprietary systems: 
+In the code4lib journal article <a href="http://journal.code4lib.org/articles/8327">“Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source”</a> by Heather Gilbert and Tyler Mobley, they reiterate Carol’s cost issues with proprietary systems: 
 
 > By 2011, LCDL had over 12 project partners and almost 50,000 items digitized. LCDL’s current CONTENTdm license was limited to 50,000 
 > items. CONTENTdm defines items as single scans. Compound objects are counted as the number of scans plus one for the compound object 
@@ -50,3 +50,4 @@ And while the cost issue is there, it’s important to to remember that both hav
 > solutions may be feasible for libraries without an IT staff. However, one of the major drawbacks of a proprietary-software package is > expense. Depending on the number of users, the licensing and installation fee can be fairly expensive especially in comparison to open > source software. While out-of-the-box solutions are easier to adopt, they are not usually as adaptable to the constantly changing 
 > needs of the institutions.
 
+Bridge2Hyku's mission is to help with the migration process to the open source Hyku, but the tools we're building and the best practices that will be highlighted, will be helpful to those that decide to migrate to closed platforms as well. 
