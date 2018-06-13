@@ -25,7 +25,7 @@
     url: "/partners/"
 
 - title: "Blog"
-  url: "/blog/archive/"
+  url: "/blog/"
   side: right
 
 - title: "Contact"
