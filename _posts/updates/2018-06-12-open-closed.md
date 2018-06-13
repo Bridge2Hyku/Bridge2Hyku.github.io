@@ -21,7 +21,7 @@ image:
     homepage: open-closed-home.jpg
 ---
 
-If you are looking to migrate your digital collections, one of the most important decisions to make is whether your new platform will be open source or proprietary (for a short history of this dichotomy, read the wiki article <a href="https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software">here</a>.  This question isn’t an easy one and there are pros and cons to both. Below you’ll find several helpful links and quotes for when you’re at this pivotal crossroads. 
+If you are looking to migrate your digital collections, one of the most important decisions to make is whether your new platform will be open source or proprietary (for a short history of this dichotomy, read the wiki article <a href="https://en.wikipedia.org/wiki/Comparison_of_open-source_and_closed-source_software">here</a>).  This question isn’t an easy one and there are pros and cons to both. Below you’ll find several helpful links and quotes for when you’re at this pivotal crossroads. 
 
 Librarian Carol Bean’s <a href="https://beanworks.clbean.com/2010/04/30/comparing-digital-library-systems/">2010 blog post</a> shares a rather exhaustive list of platforms from both sides, some of which have already gone out of favor. Her key takeaway:
 
