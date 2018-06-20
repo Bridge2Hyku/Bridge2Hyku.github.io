@@ -25,10 +25,6 @@ image:
 
 An easy to read primer from Conor McTernan at the United Nations University points out several lessons from their IR build. 
 
-Lessons Learned
-
-An easy to read primer from Conor McTernan at the United Nations University points out several lessons from their IR build. 
-
 <a href="https://communications.unu.edu/things-we-have-learned-building-an-institutional-repository">https://communications.unu.edu/things-we-have-learned-building-an-institutional-repository</a>
 
 ### Checklist 
