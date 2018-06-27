@@ -18,9 +18,9 @@ permalink: "/toolkit/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Data Migration 
+## Data Migration
 
-The tools below are available to help get your content out of CONTENTdm 
+The tools below are available to help get your content out of CONTENTdm
 
 ## CDM-Migrator {#cdm-migrator}
 
@@ -28,7 +28,7 @@ This migrator is designed to export individual ContentDM collections to a CSV fo
 
 ## Hunting {#hunting}
 
-A Ruby gem for pulling metadata and info from CONTENTdm. Developed by Andy Weider (University of Houston). 
+A Ruby gem for pulling metadata and info from CONTENTdm. Developed by Andrew Weidner (University of Houston).
 
 ## Metadata Remediation
 
