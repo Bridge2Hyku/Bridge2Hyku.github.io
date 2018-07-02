@@ -31,6 +31,7 @@ This migrator is designed to export individual ContentDM collections to a CSV fo
 A Ruby gem for pulling metadata and info from CONTENTdm. Developed by Andrew Weidner (University of Houston).
 
 ## Metadata Remediation
+Once you've gotten your metadata out of ContentDM, use the tools below to help normalize it. 
 
 ## OpenRefine {#openrefine}
 
