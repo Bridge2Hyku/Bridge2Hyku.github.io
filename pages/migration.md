@@ -18,7 +18,7 @@ permalink: "/migration/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Migration Overview {#migration-overview}
+## Migration Overview
 
 Data migration for digital collections is a complex process. As with most difficult tasks, it can be helpful to break down what needs to be done into smaller blocks of work. In general, data migrations can be divided into four sub-tasks, each with their own sets outcomes, tools, and techniques:
 
@@ -40,45 +40,48 @@ Data migration for digital collections is a complex process. As with most diffic
 
 The following sections will describe the importance of each of these steps in more detail and provide resources for effectively planning and executing your next content migration. This page does not assume that you have chosen a target system for your migration or that you are migrating from a specific source platform. This information is intended as a general for both new and seasoned digital collections professionals.
 
-## Migration Planning {#migration-planning}
+## Migration Planning
 
 
-### Content Analysis {#content-analysis}
+### Content Analysis
 
 Data Types
 File Types
 File Locations
 
-### Metadata Analysis {#metadata-analysis}
+### Metadata Analysis
 
 Metadata Schema
 Data Quality
 
-## Normalize Metadata {#normalize-metadata}
+## Normalize Metadata
 
-### Before Export {#normalize-before-export}
+### Before Export
 
-### In Transit {#normalize-in-transit}
+### In Transit
 
-### After Import {#normalize-after-import}
+### After Import
 
 ## Migrate Content
 
-### Model Data Types {#model-data-types}
+### Model Data Types
 
-### Map Metadata {#map-metadata}
+### Map Metadata
 
-### Source Repository Export {#source-repo-export}
+### Source Repository Export
 
-### Target Repository Import {#target-repo-import}
+### Target Repository Import
 
-## Content Verification {#content-verification}
+## Content Verification
 
-### Data Integrity {#data-integrity}
 
-### Data Presentation {#data-presentation}
+### Data Integrity
 
-## Migration Resources {#migration-resources}
+
+### Data Presentation
+
+
+## Migration Resources
 
 href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a> _Duraspace (March 2018)_
 
