@@ -18,16 +18,71 @@ permalink: "/migration/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-## Getting Started {#getting-started}
+## Migration Overview {#migration-overview}
 
-Thinking about upgrading your Digital Library? Watch this recent (March 2018) webinar by Duraspace: <a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">"Open Source Repository Upgrades: Top Advice from Practitioners</a>."
+Data migration for digital collections is a complex process. As with most difficult tasks, it can be helpful to break down what needs to be done into smaller blocks of work. In general, data migrations can be divided into four sub-tasks, each with their own sets outcomes, tools, and techniques:
 
-## Migration Process {#migration-process}
+1. Migration Planning
+  * Content Analysis
+  * Metadata Analysis
+2. Normalize Metadata
+  1. Before Export
+  2. In Transit
+  3. After Import
+3. Migrate Content
+  1. Model Data Types
+  2. Map Metadata
+  3. Export Source Repository
+  4. Import Target Repository
+4. Content Verification
+  * Data Integrity
+  * Presentation
 
-## Content Analysis {#content-analysis}
+The following sections will describe the importance of each of these steps in more detail and provide resources for effectively planning and executing your next content migration. This page does not assume that you have chosen a target system for your migration or that you are migrating from a specific source platform. This information is intended as a general for both new and seasoned digital collections professionals.
 
-## Metadata Analysis {#metadata-analysis}
+## Migration Planning {#migration-planning}
 
+
+### Content Analysis {#content-analysis}
+
+Data Types
+File Types
+File Locations
+
+### Metadata Analysis {#metadata-analysis}
+
+Metadata Schema
+Data Quality
+
+## Normalize Metadata {#normalize-metadata}
+
+### Before Export {#normalize-before-export}
+
+### In Transit {#normalize-in-transit}
+
+### After Import {#normalize-after-import}
+
+## Migrate Content
+
+### Model Data Types {#model-data-types}
+
+### Map Metadata {#map-metadata}
+
+### Source Repository Export {#source-repo-export}
+
+### Target Repository Import {#target-repo-import}
+
+## Content Verification {#content-verification}
+
+### Data Integrity {#data-integrity}
+
+### Data Presentation {#data-presentation}
+
+## Migration Resources {#migration-resources}
+
+href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a> _Duraspace (March 2018)_
+
+href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a> _Heather Gilbert and Tyler Mobley (April 2013)_
 
 {% include _improve_content.html %}
 </div><!-- /.medium-8.columns -->
