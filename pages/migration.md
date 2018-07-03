@@ -108,10 +108,11 @@ _add content here..._
 
 ## Migration Resources
 
-<a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a> _Duraspace (March 2018)_
+- <a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a> _Duraspace (March 2018)_
 
-<a href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a> _Heather Gilbert and Tyler Mobley (April 2013)_
+- <a href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a> _Heather Gilbert and Tyler Mobley (April 2013)_
 
-{% include _improve_content.html %}
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+
+{% include _improve_content.html %}
