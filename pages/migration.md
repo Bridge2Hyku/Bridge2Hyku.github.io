@@ -98,6 +98,12 @@ _add content here..._
 
 - <a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a> _Duraspace (March 2018)_
 
+- <a href="http://dcpapers.dublincore.org/pubs/article/view/3861">Collaborative Metadata Application Profile Development for DAMS Migration</a> _Anne Washington and Andrew Weidner (2017)_
+
+- <a href="http://dcpapers.dublincore.org/pubs/article/view/3773">Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston</a> _Andrew Weidner and Annie Wu (2015)_
+
+- <a href="http://dcevents.dublincore.org/IntConf/dc-2014/paper/view/218">Automated Enhancement of Controlled Vocabularies: Upgrading Legacy Metadata in CONTENTdm</a> _Andrew Weidner, Annie Wu, and Santi Thompson (2014)_
+
 - <a href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a> _Heather Gilbert and Tyler Mobley (April 2013)_
 
 {% include _improve_content.html %}
