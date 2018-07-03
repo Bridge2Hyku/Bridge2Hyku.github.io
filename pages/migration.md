@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Migration Planning"
-subheadline: "Learn how to assess your current repository content and prepare it for a move to another system"
+teaser: "Learn how to assess your current repository content and prepare it for a move to another system"
 header:
     image_fullwidth: "header_unsplash_8.jpg"
 permalink: "/migration/"
