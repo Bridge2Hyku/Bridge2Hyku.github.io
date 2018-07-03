@@ -20,13 +20,17 @@ permalink: "/migration/"
 
 ## Migration Overview
 
-Data migration for digital collections is a complex process. As with most difficult tasks, it can be helpful to break down what needs to be done into smaller blocks of work. In general, data migrations can be divided into four sub-tasks, each with their own sets outcomes, tools, and techniques: Migration Planning, Metadata Normalization, Content Migration, and Content Verification.
+Data migration for digital collections is a complex process. As with most difficult tasks, it can be helpful to break down what needs to be done into smaller blocks of work. In general, data migrations can be divided into four sub-tasks, each with their own sets of outcomes, tools, and techniques: Migration Planning, Metadata Normalization, Content Migration, and Content Verification.
 
 The following sections describe the importance of each of these steps in more detail and provide resources for effectively planning and executing your next content migration. This page does not assume that you have chosen a target system for your migration or that you are migrating from a specific source platform. This information is intended as a general migration guide for both new and seasoned digital collections professionals.
 
 ## Migration Planning
 
-_add content here..._
+Careful planning is arguably the most important step in migration.
+
+Each situation is unique.
+
+How migration fits in with other systems: preservation, library catalog, etc.
 
 ### Content Analysis
 
