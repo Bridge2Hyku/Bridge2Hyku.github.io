@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "Migration Planning"
+title: "Migration"
 teaser: "Learn how to assess your current repository content and prepare it for a move to another system"
 header:
     image_fullwidth: "header_unsplash_8.jpg"
@@ -30,7 +30,7 @@ Data migration for digital collections is a complex process. As with most diffic
   * In Transit
   * After Import
 3. Migrate Content
-  * Model Data Types
+  * Model Work Types
   * Map Metadata
   * Export Source Repository
   * Import Target Repository
@@ -78,7 +78,7 @@ _add content here..._
 
 _add content here..._
 
-### Model Data Types
+### Model Work Types
 
 _add content here..._
 
