@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Migration Planning"
-subheadline:
-teaser: "Learn how to assess your current repository content and prepare it for a move to another system"
+subheadline: "Learn how to assess your current repository content and prepare it for a move to another system"
 header:
     image_fullwidth: "header_unsplash_8.jpg"
 permalink: "/migration/"
@@ -10,6 +9,7 @@ permalink: "/migration/"
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
+**Table of Contents**
 {: #toc }
 *  TOC
 {:toc}
@@ -112,7 +112,7 @@ _add content here..._
 
 - <a href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a> _Heather Gilbert and Tyler Mobley (April 2013)_
 
-</div><!-- /.medium-8.columns -->
-</div><!-- /.row -->
-
 {% include _improve_content.html %}
+
+</div>
+</div>
