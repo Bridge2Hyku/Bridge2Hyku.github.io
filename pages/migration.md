@@ -26,14 +26,14 @@ Data migration for digital collections is a complex process. As with most diffic
   * Content Analysis
   * Metadata Analysis
 2. Normalize Metadata
-  1. Before Export
-  2. In Transit
-  3. After Import
+  * Before Export
+  * In Transit
+  * After Import
 3. Migrate Content
-  1. Model Data Types
-  2. Map Metadata
-  3. Export Source Repository
-  4. Import Target Repository
+  * Model Data Types
+  * Map Metadata
+  * Export Source Repository
+  * Import Target Repository
 4. Content Verification
   * Data Integrity
   * Presentation
@@ -42,50 +42,75 @@ The following sections will describe the importance of each of these steps in mo
 
 ## Migration Planning
 
+_add content here..._
 
 ### Content Analysis
 
 Data Types
+
 File Types
+
 File Locations
 
 ### Metadata Analysis
 
 Metadata Schema
+
 Data Quality
 
 ## Normalize Metadata
 
+_add content here..._
+
 ### Before Export
+
+_add content here..._
 
 ### In Transit
 
+_add content here..._
+
 ### After Import
+
+_add content here..._
 
 ## Migrate Content
 
+_add content here..._
+
 ### Model Data Types
+
+_add content here..._
 
 ### Map Metadata
 
+_add content here..._
+
 ### Source Repository Export
+
+_add content here..._
 
 ### Target Repository Import
 
+_add content here..._
+
 ## Content Verification
 
+_add content here..._
 
 ### Data Integrity
 
+_add content here..._
 
 ### Data Presentation
 
+_add content here..._
 
 ## Migration Resources
 
-href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a> _Duraspace (March 2018)_
+<a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a> _Duraspace (March 2018)_
 
-href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a> _Heather Gilbert and Tyler Mobley (April 2013)_
+<a href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a> _Heather Gilbert and Tyler Mobley (April 2013)_
 
 {% include _improve_content.html %}
 </div><!-- /.medium-8.columns -->
