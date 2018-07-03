@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Digital Collections Survey"
-subheadline: "Tell us about the digital collections you want to migrate"
+teaser: "Tell us about the digital collections you want to migrate"
 permalink: "/survey/"
 header:
     image_fullwidth: "header_unsplash_8.jpg"
