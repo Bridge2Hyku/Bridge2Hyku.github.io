@@ -28,7 +28,7 @@ For more information regarding remediation on dates, check the below blog posts:
 <ul><li><a href="https://blogs.library.duke.edu/bitstreams/2016/01/22/enjoy-your-metadata-fun-with-date-encoding/">Cory Lown’s Enjoy your Metadata: Fun with Date Encoding - January 22, 2016</a></li>
 
 <li><a href="https://vphill.com/journal/post/4112/">Mark Phillips’ Using the Extended Date Time Format (EDTF) - January 18, 2015.</a> 
-(a longer PDF co-authored by Mark is available here:<a href="http://dcpapers.dublincore.org/pubs/article/download/3671/1894">Lessons Learned in Implementing the Extended Date/Time Format in a Large Digital Library</a>
+(a longer PDF co-authored by Mark is available here:<a href="http://dcpapers.dublincore.org/pubs/article/download/3671/1894">Lessons Learned in Implementing the Extended Date/Time Format in a Large Digital Library</a></li></ul>
 
 
 > Standardizing <strong>names</strong> is a big challenge, but time well spent. Using tools like OpenRefine or other scripts can make it much easier to do this. I’ve read some things that indicate that names are one of the most valuable access points in a metadata record, so if they’re standardized, that will 1) benefit users and 2) make it easier to do additional authority and reconciliation work down the road. -- Anne Washington, Metadata Librarian University of Houston
