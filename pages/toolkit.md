@@ -27,9 +27,13 @@ The tools below are available to help get your content out of CONTENTdm
 
 This migrator is designed to export individual ContentDM collections to a CSV for refining. It then allows batch importing into Hyrax via a CSV upload. Developed at University of Victoria, currently <a href="https://github.com/UVicLibrary/cdm_migrator">available on github</a>.
 
+### CDM Bridge
+
+An Electron application in development for mapping and exporting CONTENTdm metadata and files.
+
 ### Hunting
 
-A Ruby gem for pulling metadata and info from CONTENTdm. Developed by Andrew Weidner (University of Houston).
+A <a href="https://github.com/uhlibraries-digital/hunting">Ruby gem</a> for pulling metadata and info from CONTENTdm. Developed by Andrew Weidner (University of Houston).
 
 ## Metadata Remediation
 Once you've gotten your metadata out of ContentDM, use the tools below to help normalize it.
