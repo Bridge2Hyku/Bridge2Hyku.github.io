@@ -1,16 +1,23 @@
 ---
 layout: page
 title: "About"
-subheadline: "learn more about Hyku"
-teaser: "Bridge2Hyku is a IMLS-funded grant project to help build community and documentation around migrating to Hyku"
+teaser: "Bridge2Hyku is an IMLS-funded grant project to help build community and documentation and software for migrating to Hyku"
 permalink: "/about/"
 header:
     image_fullwidth: "header_unsplash_right.jpg"
 ---
 
-The B2H Toolkit plan and outcomes aim to establish a framework for sustainable data migration. The project will leverage IMLS’ investment to build capacity for libraries and cultural heritage institutions in adoption of Hyku nationally and worldwide. It will engage and strengthen the open source Samvera Community (formerly Hydra Community) around Hyku by leveraging our collective expertise through strategic collaboration between UH, IUB, IUPUI, UVic, UM, Stanford, DuraSpace, and DPLA. This project will deliver national impact by addressing the following IMLS performance goals: (1) Broaden access and expand use of the Nation’s content and collections, by helping libraries and cultural heritage institutions migrate their digital collections to the Hydra-in-a-Box platform and promote them to DPLA. (2) Improve management of the Nation’s content and collections, by assisting institutions in migrating to a community supported, nationally recognized digital platform, which promises better management and shared expertise of institutions’ digital assets.
+The Bridge2Hyku (B2H) project aims to establish a framework for sustainable digital collections data migration to [Hyku](https://github.com/samvera-labs/hyku), the digital asset management software developed by the [Hydra-In-A-Box](http://hydrainabox.samvera.org/) project. The B2H project leverages the [Institute for Museum and Library Service’s (IMLS)](https://www.imls.gov/) investment ([LG-70-17-0217-17](https://www.imls.gov/grants/awarded/lg-70-17-0217-17)) in building capacity for libraries and cultural heritage institutions to adopt Hyku. B2H will engage and strengthen the open source [Samvera Community](http://samvera.org/) (formerly Hydra Project) around Hyku by leveraging our collective expertise through strategic collaboration between the [B2H project partners](partners.md).
 
-This two year project will be divided into three phases. In phase one, the team will identify metadata and system requirements needed for cross-walking data from CONTENTdm to Hyku. Phase two will be dedicated to the B2H Toolkit development, documentation, and the creation of a B2H website. In phase three, the team will assess, improve and promote the developed toolkit. The B2H project team will track project activities using Agile project management methodology and assess project goals and outcomes at the completion of each phase. The team will also explore possibilities for incorporating its resources within the Samvera Community codebase. To make it sustainable, University of Houston Libraries will maintain the stewardship of the B2H Github Organization during and after the grant period. The project team will also encourage active, participation from Samvera Community and make sure that it continues to be a long term essential resource for data migration to Hyku.
+This project will deliver national impact by addressing the following IMLS performance goals:
+- Broaden access and expand use of the Nation’s content and collections, by helping libraries and cultural heritage institutions migrate their digital collections to the Hydra-in-a-Box platform and promote them to DPLA.
+- Improve management of the Nation’s content and collections, by assisting institutions in migrating to a community supported, nationally recognized digital platform, which promises better management and shared expertise of institutions’ digital assets.
 
+This two year project (October 2017 - September 2019) is divided into three phases:
+1. Phase One: the team will identify [general](migration.md) and [system-specific](hyku.md) requirements for migrating data from CONTENTdm to Hyku.
+2. Phase Two: work during this phase will be dedicated to [migration software](toolkit.md) development, documentation, and the creation of content for this [B2H website](https://bridge2hyku.github.io/).
+3. Phase Three: the team will assess, improve, and promote the B2H project's suite of open source resources.
+
+The B2H project team will track and conduct project activities using Agile project management methodology and assess project goals and outcomes at the completion of each phase. The team will also explore possibilities for incorporating its resources within the Samvera Community codebase. To make it sustainable, the [University of Houston Libraries](https://libraries.uh.edu/) will maintain the stewardship of the [B2H Github Organization](https://github.com/bridge2hyku) during and after the grant period. The project team will also [encourage active participation](contact.md) from digital collections professionals to ensure that the B2H toolkit continues to be an essential resource for data migrations to Hyku over the long term.
 
 {% include _improve_content.html %}
