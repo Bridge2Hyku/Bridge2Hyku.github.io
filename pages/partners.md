@@ -2,6 +2,8 @@
 layout: page-fullwidth
 subheadline:
 title:  "Bridge2Hyku Partners"
+header:
+    image_fullwidth: "header_unsplash_right.jpg"
 permalink: "/partners/"
 header: no
 ---
