@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 subheadline:
-title:  "Bridge2Hyku Partners"
+title:  "Project Partners"
 header:
     image_fullwidth: "header_unsplash_right.jpg"
 permalink: "/partners/"
@@ -9,7 +9,7 @@ permalink: "/partners/"
 
 <div class="row">
     <div class="small-12 columns">
-        <h2>Project Team</h2>
+        <h2>Implementation Team</h2>
     </div><!-- /.small-12.columns -->
 </div>
 
