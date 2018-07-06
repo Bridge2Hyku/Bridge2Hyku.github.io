@@ -4,7 +4,7 @@ title: "Digital Collections Survey"
 teaser: "Tell us about the digital collections you want to migrate"
 permalink: "/survey/"
 header:
-    image_fullwidth: "header_unsplash_8.jpg"
+    image_fullwidth: "header_unsplash_right.jpg"
 permalink: "/survey/"
 ---
 <div class="row">

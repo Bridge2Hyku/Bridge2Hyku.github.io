@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: "Contact"
 meta_title: "Contact Information"
 header:
-    image_fullwidth: "header_unsplash_8.jpg"
+    image_fullwidth: "header_unsplash_right.jpg"
 teaser: "Here's how to get in touch with the Bridge2Hyku team"
 permalink: "/contact/"
 ---
