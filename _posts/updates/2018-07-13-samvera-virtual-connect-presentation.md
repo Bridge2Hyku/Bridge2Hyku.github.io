@@ -22,8 +22,8 @@ image:
     thumb: bridge-present-thumb.jpg
     homepage: bridge-present-home.jpg
 ---
-As part of the lightning talks during Samvera Virtual Connect, the Bridge2Hyku team gave an update on wrapping up Phase 1 and the current progress on phase 2.  The presentation was recorded and available below. 
+As part of the lightning talks during Samvera Virtual Connect, the Bridge2Hyku team gave an update on wrapping up Phase 1 and the current progress on phase 2.  The presentation was recorded and available below. <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fdr-ROQ7JfU?rel=0&amp;start=7480" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-Presentation PDF available here: (BRIDGE2HYKU: BUILDING A MIGRATION TOOLKIT: PROGRESS REPORT AT SAMVERA VIRTUAL CONNECT 2018)[https://uh-ir.tdl.org/uh-ir/handle/10657/3243]
+<br>
+Presentation PDF available here: <a href="https://uh-ir.tdl.org/uh-ir/handle/10657/3243">BRIDGE2HYKU: BUILDING A MIGRATION TOOLKIT: PROGRESS REPORT AT SAMVERA VIRTUAL CONNECT 2018</a>
