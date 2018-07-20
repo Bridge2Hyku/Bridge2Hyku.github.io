@@ -81,25 +81,25 @@ _add content here..._
   </tr>
   <tr>
     <td>Title</td>
-    <td>X</td>
+    <td>✓</td>
     <td>dct:title</td>
     <td>A name to aid in identifying a resource.</td>
   </tr>
   <tr>
     <td>Creator</td>
-    <td>X</td>
+    <td>✓</td>
     <td>dce:creator</td>
     <td>The person or group responsible for the resource. Usually this is the author of the content. Personal names should be entered with the last name first, e.g. “Smith, John”.</td>
   </tr>
   <tr>
     <td>Keyword</td>
-    <td>X</td>
+    <td>✓</td>
     <td>dce:relation</td>
     <td>Words or phrases you select to describe what the resource is about. These are used to search for content.</td>
   </tr>
   <tr>
     <td>Rights statement</td>
-    <td>X</td>
+    <td>✓</td>
     <td>edm:rights</td>
     <td>Indicates the copyright and reuse status of the resource. While licenses cannot always be asserted, a rights statement can be. See <a href="RightsStatements.org">RightsStatements.org</a> for more information.</td>
   </tr>
