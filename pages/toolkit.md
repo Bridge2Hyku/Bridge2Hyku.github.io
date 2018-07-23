@@ -21,26 +21,32 @@ permalink: "/toolkit/"
 
 ## Data Migration
 
-The tools below are available to help get your content out of CONTENTdm
+The tools below are available to help move your content out of CONTENTdm.
 
-### CDM-Migrator
+### CDM Migrator
 
-This migrator is designed to export individual ContentDM collections to a CSV for refining. It then allows batch importing into Hyrax via a CSV upload. Developed at University of Victoria, currently <a href="https://github.com/UVicLibrary/cdm_migrator">available on github</a>.
+The [CDM Migrator](https://github.com/UVicLibrary/cdm_migrator) is designed to export individual CONTENTdm collections to a CSV for metadata normalization. It then provides a batch import interface for Hyrax via a CSV upload. Developed by Braydon Justice (University of Victoria).
 
 ### CDM Bridge
 
-An Electron application in development for mapping and exporting CONTENTdm metadata and files.
+An Electron application in development for mapping and exporting CONTENTdm metadata. It also provides the option of exporting files from CONTENTdm.
 
 ### Hunting
 
-A <a href="https://github.com/uhlibraries-digital/hunting">Ruby gem</a> for pulling metadata and info from CONTENTdm. Developed by Andrew Weidner (University of Houston).
+A [Ruby gem](https://github.com/uhlibraries-digital/hunting) for pulling metadata and info from CONTENTdm. Developed by Andrew Weidner (University of Houston).
 
-## Metadata Remediation
-Once you've gotten your metadata out of ContentDM, use the tools below to help normalize it.
+## Metadata Normalization
+
+Use the tools below to make sense of your data and normalize it for migration.
 
 ### OpenRefine
 
-A powerful open source app that allows users to make sense of messy data. <a href="http://openrefine.org/">http://openrefine.org/</a>.
+[Open Refine](http://openrefine.org/) is a powerful open source application that allows users to make sense of messy data.
+
+### AutoHotkey
+
+For Windows users, [AutoHotkey]() provides a full-featured scripting language for desktop automation. 
+
 
 {% include _improve_content.html %}
 </div>
