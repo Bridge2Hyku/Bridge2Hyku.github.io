@@ -64,13 +64,13 @@ _add content here..._
 
 ## Migrate Content
 
-_add content here..._
+Once you’ve normalized your metadata, you have to move it into your new system.  If you are moving onto a hosted platform, this might require another round of metadata changes to accommodate the platform’s framework. The steps here include: identify the platform’s requirements, crosswalk your schema to the new one, export your content, and finally import your content.
 
 ### Model Work Types
 
-_add content here..._
+Your new digital asset management system should have some basic way of housing metadata. In some systems, like CONTENTdm, the metadata profile is based on the collection. In Hyku/Hyrax, metadata is structured around a work type. Hyku currently uses a “generic work”, which is a Dublin Core-based schema that is standard for Hyrax. The two most important pieces of information to gather from your new platform are the schema preference (Dublin Core, MODS, MARC, etc.)  and the fields available.  
 
-### Map Metadata
+A Hyku generic work has 16 fields
 
 <table>
   <tr>
@@ -176,6 +176,29 @@ _add content here..._
     <td>Pre-defined categories in Hyku to describe the type of content being uploaded. More than one type may be selected.</td>
   </tr>
 </table>
+
+For more information regarding these Fields, including expected values and examples, please visit the <a href="https://docs.google.com/document/d/1RXRT08236E98RTKASX-bL60qLoBeZgYXFUSD4XBOIa">_Hyku Metadata Documentation (DRAFT)_</a> and <a href="https://gist.github.com/cmh2166/723bebaee52d9ba4eb68eebc904484">_Hyrax Metadata Technical Documentation_</a>. 
+
+### Map Metadata
+
+Once you know your target system’s metadata schema, you will need to map your current schema to it.  <a href="https://www.getty.edu/publications/intrometadata/metadata-matters/#fn:2">The Getty Institute</a> “refer[s] to _mapping_ as the intellectual activity of comparing and analyzing two metadata schemas, and to _crosswalks_ as the visual product of mapping.”
+
+Many of these crosswalks have become standardized and are available from the Library of Congress. Here are some examples:  
+
+<ul><li><a href="http://www.loc.gov/marc/dccross.html">Dublin Core to MARC</a></li>
+    <li><a href="http://www.loc.gov/standards/mods/dcsimple-mods.html">Dublin Core to MODS</a><li>
+    <li><a href="http://www.loc.gov/marc/marc2dc.html">MARC to Dublin Core</a></li>
+    <li><a href="https://www.loc.gov/standards/mods/mods-mapping.html">MARC to MODS</a></li></ul>
+    
+Crosswalking is not always as simple as changing the field name, as laid out in the white paper <a href="https://groups.niso.org/publications/white_papers/crosswalk/">"Issues in Crosswalking Content Metadata Standards"</a> (1998)  by St. Pierre and LaPlant. Some common issues are:
+
+<ul><li><strong>One-to-Many:</strong> When an element in your current schema has separate elements in your target system.  Example: if your current system only uses "date", it’s possible to enter a schema that has multiple date fields.</li>
+    <li><strong>No clear binary:</strong> When an existing element has no clear equivalent in the new system. This occurs often when the granularity of your system is higher than that of the target. Typically this will result in a broader list of entries within the keywords or description fields. When confronting this challenge, you will often lose specificity or may choose to omit fields from your existing metadata altogether.</li>
+    <li><strong>Structural differences:</strong> Some schemas (EAD, etc) allow for hierarchical metadata, while others (MARC, etc) are flat. </li>
+    
+There are no easy ways around the issues above, and your institution’s decisions on these should come from internal knowledge and context. CONTENTdm and Hyku both use Dublin Core, so the crosswalking required is at the field-level and will require mapping decisions that could be unique to your CONTENTdm instance or even your individual collections.  The Bridge2Hyku toolkit includes CDM-Bridge which comes preloaded with Hyku’s standard target metadata to get you a head start on determining your mapping and easily exporting your metadata through it.  
+    
+
 
 ### Source Repository Export
 
