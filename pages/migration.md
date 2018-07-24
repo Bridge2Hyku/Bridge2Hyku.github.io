@@ -186,7 +186,7 @@ Once you know your target system’s metadata schema, you will need to map your 
 Many of these crosswalks have become standardized and are available from the Library of Congress. Here are some examples:  
 
 <ul><li><a href="http://www.loc.gov/marc/dccross.html">Dublin Core to MARC</a></li>
-    <li><a href="http://www.loc.gov/standards/mods/dcsimple-mods.html">Dublin Core to MODS</a><li>
+    <li><a href="http://www.loc.gov/standards/mods/dcsimple-mods.html">Dublin Core to MODS</a></li>
     <li><a href="http://www.loc.gov/marc/marc2dc.html">MARC to Dublin Core</a></li>
     <li><a href="https://www.loc.gov/standards/mods/mods-mapping.html">MARC to MODS</a></li></ul>
     
