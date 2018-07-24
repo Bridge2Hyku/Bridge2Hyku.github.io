@@ -199,7 +199,19 @@ _add content here..._
 
 ## Migration Resources
 
+### Deciding to Make The Leap 
+
+- <a href="http://www.dlib.org/dlib/september15/stein/09stein.html">Taking Control: Identifying Motivations for Migrating Library Digital Asset Management Systems</a><br>_Ayla Stein and Santi Thompson (October 2015)_
+
+- <a href="http://hdl.handle.net/10657/1575">Hitting the Road towards a Greater Digital Destination: Evaluating and Testing DAMS at the University of Houston Libraries</a><br>_Annie Wu, Santi Thompson, Rachel Vacek, Sean Watkins, and Andrew Weidner (June 2016)_
+
 - <a href="https://www.slideshare.net/DuraSpace/32818-open-source-repository-upgrades-top-advice-from-practitioners-webinar-recording">Open Source Repository Upgrades: Top Advice from Practitioners</a><br>_Duraspace (March 2018)_
+
+- <a href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a><br>_Heather Gilbert and Tyler Mobley (April 2013)_
+
+- <a href="https://www.bepress.com/webinar/evaluating-planning-completing-successful-migration-case-study/">Evaluating, Planning, and Completing a Successful Migration: A Case Study</a><br>_Elizabeth Chance (2018)_
+
+### Metadata Migration Resources 
 
 - <a href="http://dcpapers.dublincore.org/pubs/article/view/3861">Collaborative Metadata Application Profile Development for DAMS Migration</a><br>_Anne Washington and Andrew Weidner (2017)_
 
@@ -207,7 +219,7 @@ _add content here..._
 
 - <a href="http://dcevents.dublincore.org/IntConf/dc-2014/paper/view/218">Automated Enhancement of Controlled Vocabularies: Upgrading Legacy Metadata in CONTENTdm</a><br>_Andrew Weidner, Annie Wu, and Santi Thompson (2014)_
 
-- <a href="https://journal.code4lib.org/articles/8327">Breaking Up With CONTENTdm: Why and How One Institution Took the Leap to Open Source</a><br>_Heather Gilbert and Tyler Mobley (April 2013)_
+- <a href="https://www.getty.edu/publications/intrometadata/">Getty Institute's Introduction to Metadata 3rd Edition</a><br>_Edited by Murtha Baca (2016)_
 
 {% include _improve_content.html %}
 
