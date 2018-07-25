@@ -98,6 +98,19 @@ permalink: "/partners/"
 </div>
 
 <div class="row">
+  <div class="large-6 columns">
+    <figure>
+      <img src="/images/logos/logo-tdl.png" alt="Texas Digital Library">
+      <figcaption class="text-left">
+        <a href="https://welcome.miami.edu/">https://tdl.org</a><br>
+          Courtney Mumma <i>Migration Strategist</i><br>
+          Nicholas Woodward<i>Software Developer</i>
+      </figcaption>
+    </figure>
+  </div>
+ </div>
+
+<div class="row">
     <div class="small-12 columns">
         <h2>Community Stakeholders</h2>
     </div><!-- /.small-12.columns -->
@@ -125,6 +138,12 @@ permalink: "/partners/"
     </figure>
   </div>
 </div>
+
+
+
+
+
+
 
 
 <div class="row">
