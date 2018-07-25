@@ -73,7 +73,7 @@ permalink: "/partners/"
       <figcaption class="text-left">
         <a href="https://tdl.org/">https://tdl.org</a><br>
           Courtney Mumma <i>Migration Strategist</i><br>
-          Nicholas Woodward<i>Software Developer</i>
+          Nicholas Woodward <i>Software Developer</i>
       </figcaption>
     </figure>
   </div>
