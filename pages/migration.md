@@ -35,10 +35,11 @@ Institutional Characteristics
 The broader context in which a migration takes place will shape many of the decisions made. Some points to consider include: 
 * Type, size, and budget of institution:
     * These indicate the broader goals of the organization and and overall picture of resources that may be available. Additionally, there may be state or city policies that may impact elements of the migration process.
-* Digital collections staffing:<ul><li>These will likely be key personnel in a migration. Understanding of the people, expertise, and financial resources available will shape the approach you take to a migration. Some factors to consider include:
-    * The overall number of staff supporting digital collection management
-    * The number of IT professionals supporting digital collection management
-    * The departments of staff supporting digital collection management
+* Digital collections staffing:
+    * These will likely be key personnel in a migration. Understanding of the people, expertise, and financial resources available will shape the approach you take to a migration. Some factors to consider include:
+      * The overall number of staff supporting digital collection management
+      * The number of IT professionals supporting digital collection management
+      * The departments of staff supporting digital collection management
 
 
 Digital Collection Management
