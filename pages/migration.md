@@ -128,7 +128,9 @@ __Data Quality__
 Assessing your current metadata quality will help you make decisions around metadata remediation needs, timing, and strategies. Consulting resources on metadata quality and remediation strategies can help frame your analysis and path forward, but the following areas of focus will give you a broad view of metadata quality in your collections.
 
 Do you have local metadata input guidelines?
+
 Have metadata values been entered consistently across your digital collections?
+
 Does you metadata -  elements and/or values - align with any other standards or best practices?
 * Examples: Describing Archives: A Content Standard (DACS), The Digital Public Library of American Application Profile (DPLA-MAP), etc.
 
