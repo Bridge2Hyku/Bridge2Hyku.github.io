@@ -30,7 +30,7 @@ Careful planning is arguably the most important step in migration. It requires c
 
 ### Contextual Considerations
 
-__Institutional Characteristics__
+Institutional Characteristics
 
 The broader context in which a migration takes place will shape many of the decisions made. Some points to consider include: 
 <ul>
@@ -46,7 +46,7 @@ The broader context in which a migration takes place will shape many of the deci
         </ul>
 </ul>
 
-__Digital Collection Management__
+Digital Collection Management
 
 Other contextual considerations specifically around the management of your digital collections are useful to keep in mind when forming a project team: 
 <ul>
