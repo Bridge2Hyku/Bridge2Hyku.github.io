@@ -41,7 +41,7 @@ Use the tools below to make sense of your data and normalize it for migration.
 
 ### OpenRefine
 [http://openrefine.org/](http://openrefine.org/)<br>
-Open Refine is a powerful open source application that allows users to make sense of messy data.
+A powerful open source application that allows users to make sense of messy data. It is especially appropriate for understanding your metadata in aggregate. OpenRefine’s faceted browsing abilities let users see how values cluster and how metadata can be cleaned up quickly.  Controlled vocabularies can also be used within OpenRefine’s tools to refine your metadata even more. OpenRefine can get bogged down with too much data, so try to limit the size of data that you load. One easy way is to cut out any metadata that involves more than a few words, such as descriptions or transcripts, in your CSV or spreadsheet before using OpenRefine.  
 
 ### AutoHotkey
 [https://autohotkey.com/](https://autohotkey.com/)<br>
