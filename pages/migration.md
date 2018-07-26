@@ -131,6 +131,7 @@ Do you have local metadata input guidelines?
 Have metadata values been entered consistently across your digital collections?
 Does you metadata -  elements and/or values - align with any other standards or best practices?
 * Examples: Describing Archives: A Content Standard (DACS), The Digital Public Library of American Application Profile (DPLA-MAP), etc.
+
 How do you indicate copyright in your digital collections?
 * What metadata field(s) are used?
 * What values appear in this field? Varying local statements? Standard local statements? Rightsstatements.org values or URIs?
