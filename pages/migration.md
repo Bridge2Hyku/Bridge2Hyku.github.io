@@ -38,8 +38,7 @@ The broader context in which a migration takes place will shape many of the deci
     <li>Digital collections staffing:<ul><li>These will likely be key personnel in a migration. Understanding of the people, expertise, and financial resources available will shape the approach you take to a migration. Some factors to consider include:
             <ul><li>The overall number of staff supporting digital collection management</li>
                 <li>The number of IT professionals supporting digital collection management</li>
-                <li>The departments of staff supporting digital collection management</li>
-            </ul></ul></ul>
+                <li>The departments of staff supporting digital collection management</li></ul></ul></ul>
 
 Digital Collection Management
 
