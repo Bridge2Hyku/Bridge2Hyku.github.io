@@ -30,7 +30,7 @@ Careful planning is arguably the most important step in migration. It requires c
 
 ### Contextual Considerations
 
-Institutional Characteristics
+__Institutional Characteristics__
 
 The broader context in which a migration takes place will shape many of the decisions made. Some points to consider include: 
 <ul>
@@ -46,7 +46,7 @@ The broader context in which a migration takes place will shape many of the deci
         </ul>
 </ul>
 
-Digital Collection Management
+__Digital Collection Management__
 
 Other contextual considerations specifically around the management of your digital collections are useful to keep in mind when forming a project team: 
 <ul>
@@ -74,7 +74,7 @@ Overall information that is useful to collect:
 
 ### Content Analysis
 
-Data Types
+__Data Types__
 
 This is focused on the type and structure of the digital objects in your current system. What type of content is in your digital library? How are your digital objects structured now? Can they be accomodated in the new system? This is one example of some ways you may characterize content:
 
@@ -89,13 +89,13 @@ This is focused on the type and structure of the digital objects in your current
 * Hierarchical work
 * Multiple file types (e.g. audio/video file with image or PDF)
 
-File Types
+__File Types__
 
 An inventory of file formats currently in use will help you create a full picture of your collections and will underscore your decisions moving forward. What file types will be produced or migrated for access purposes? Does the target system support those file types? Do you require copies or production of other file types for access or preservation?
 
 * Examples of file types include: JPEG, TIFF, PDF, MP3, MP4 and others.
 
-File Locations
+__File Locations__
 
 As new standards are implemented and staff come and go, file management practices change. A migration provides an opportunity for an inventory of your files. While migration tools may provide you with the option to migrate existing files or derivatives directly from your current digital library to a new system, you may decide to upload files from your local file system. If you plan for the latter, locating these files, organizing them, and moving them to an accessible or centralized location may be a good strategy and should be a consideration when planning your migration. 
 
@@ -103,9 +103,37 @@ As new standards are implemented and staff come and go, file management practice
 
 To adequately plan and prepare for migration, it is crucial to have a deep understanding of your existing metadata as well as the metadata requirements of the new system. The following areas of focus can provide you with insight to inform migration decisions.
 
-Metadata Profiles
+__Metadata Profiles__
+What is/are the metadata profile(s) for your current digital collections?
+<ul><li>What schema(s) are used?
+        <ul><li>Examples: Dublin Core, MODS, MARC, EAD, Local metadata schema, etc.</li></ul></li>
+    <li>Is the same schema used across your entire digital library or does it vary by collection?</li>
+    <li>What fields are required?</li>
+    <li>What data type(s) populate those fields?
+        <ul><li>Examples: Strings, Numbers, URIs</li></ul></li>
+    <li>What controlled vocabularies are used?
+        <ul><li>Examples: Library of Congress Name Authority File (LCNAF), Library of Congress Subject Headings (LCSH), Thesaurus of Geographic Names (TGN), DCMI Type Vocabulary, Local vocabulary, etc.</li></ul></li>
+    </ul>
+    
+What is the metadata profile for your new repository? (See examples above)
 
-Data Quality
+* What schema(s) are used?
+* Is the same schema used across the entire entire digital library or does it vary in some way?
+* What fields are required?
+* What data type(s) populate those fields?
+* What controlled vocabularies are used/suggested?
+
+__Data Quality__
+
+Assessing your current metadata quality will help you make decisions around metadata remediation needs, timing, and strategies. Consulting resources on metadata quality and remediation strategies can help frame your analysis and path forward, but the following areas of focus will give you a broad view of metadata quality in your collections.
+
+Do you have local metadata input guidelines?
+Have metadata values been entered consistently across your digital collections?
+Does you metadata -  elements and/or values - align with any other standards or best practices?
+* Examples: Describing Archives: A Content Standard (DACS), The Digital Public Library of American Application Profile (DPLA-MAP), etc.
+How do you indicate copyright in your digital collections?
+* What metadata field(s) are used?
+* What values appear in this field? Varying local statements? Standard local statements? Rightsstatements.org values or URIs?
 
 ## Normalize Metadata
 
