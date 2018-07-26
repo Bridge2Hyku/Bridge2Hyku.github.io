@@ -26,23 +26,84 @@ The following sections describe the importance of each of these steps in more de
 
 ## Migration Planning
 
-Careful planning is arguably the most important step in migration.
+Careful planning is arguably the most important step in migration. It requires consideration of both the larger context in which the migration takes place as well as an assessment of the content of the current digital collections and an understanding of the requirements of the system to which you are migrating. While this section aims to outline general guidance for migration planning, it is important to keep in mind that each situation is unique. A thoughtful analysis of these different factors will allow you to be better prepared for migration.
 
-Each situation is unique.
+### Contextual Considerations
 
-How migration fits in with other systems: preservation, library catalog, etc.
+Institutional Characteristics
+
+The broader context in which a migration takes place will shape many of the decisions made. Some points to consider include: 
+<ul>
+    <li>Type, size, and budget of institution:
+        <ul><li>These indicate the broader goals of the organization and and overall picture of resources that may be available. Additionally, there may be state or city policies that may impact elements of the migration process.</li>
+        </ul>
+    <li>Digital collections staffing:
+        <ul><li>These will likely be key personnel in a migration. Understanding of the people, expertise, and financial resources available will shape the approach you take to a migration. Some factors to consider include:
+            <ul><li>The overall number of staff supporting digital collection management</li>
+                <li>The number of IT professionals supporting digital collection management</li>
+                <li>The departments of staff supporting digital collection management</li>
+            </ul>
+        </ul>
+</ul>
+
+Digital Collection Management
+
+Other contextual considerations specifically around the management of your digital collections are useful to keep in mind when forming a project team: 
+<ul>
+    <li>Primary stakeholders for your digital collections</li>
+    <li>Intended audience(s) for your digital collections</li>
+    <li>Structures, committees, and policies in place related to the administration of digital collections.
+        <ul><li>This may include individuals or groups that create policy, have technical administrative control over the repository, etc.</li></ul>
+    <li>What system interactions and dependencies exist around digital collections?
+        <ul><li>For example, the ILS pulls digital collection data from an API, etc.</li></ul>
+            </li>
+        </ul>
+        
+### Digital Library Analysis
+
+Making a full assessment of your digital library content, including the types of resources included and the condition of your metadata gives you an overall view of the condition of your digital library and reveals the type of pre-work you may need to plan for before migrating.
+ 
+This analysis is typically most useful when compiled collection by collection, and formatted in such a way to enable visualization of patterns and needs across collections. This exercise also helps identify collections that may be simplest for testing and those that are most challenging.
+
+Overall information that is useful to collect: 
+
+* Number of digital collections to be migrated (Free text)
+* Number of digital objects to be migrated (Free text)
+* Total size (TB) of digital objects to be migrated (Free text)
+
 
 ### Content Analysis
 
 Data Types
 
+This is focused on the type and structure of the digital objects in your current system. What type of content is in your digital library? How are your digital objects structured now? Can they be accomodated in the new system? This is one example of some ways you may characterize content:
+
+* Single sided photograph
+* Double sided photograph
+* Single sided document
+* Multi-page document
+* Single audio
+* Multi-part audio
+* Single video
+* Multi-part video file
+* Hierarchical work
+* Multiple file types (e.g. audio/video file with image or PDF)
+
 File Types
+
+An inventory of file formats currently in use will help you create a full picture of your collections and will underscore your decisions moving forward. What file types will be produced or migrated for access purposes? Does the target system support those file types? Do you require copies or production of other file types for access or preservation?
+
+* Examples of file types include: JPEG, TIFF, PDF, MP3, MP4 and others.
 
 File Locations
 
+As new standards are implemented and staff come and go, file management practices change. A migration provides an opportunity for an inventory of your files. While migration tools may provide you with the option to migrate existing files or derivatives directly from your current digital library to a new system, you may decide to upload files from your local file system. If you plan for the latter, locating these files, organizing them, and moving them to an accessible or centralized location may be a good strategy and should be a consideration when planning your migration. 
+
 ### Metadata Analysis
 
-Metadata Schema
+To adequately plan and prepare for migration, it is crucial to have a deep understanding of your existing metadata as well as the metadata requirements of the new system. The following areas of focus can provide you with insight to inform migration decisions.
+
+Metadata Profiles
 
 Data Quality
 
