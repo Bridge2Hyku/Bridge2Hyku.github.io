@@ -40,6 +40,7 @@ The broader context in which a migration takes place will shape many of the deci
                 <li>The number of IT professionals supporting digital collection management</li>
                 <li>The departments of staff supporting digital collection management</li></ul></ul></ul>
 
+
 Digital Collection Management
 
 Other contextual considerations specifically around the management of your digital collections are useful to keep in mind when forming a project team: 
