@@ -30,7 +30,7 @@ Careful planning is arguably the most important step in migration. It requires c
 
 ### Contextual Considerations
 
-Institutional Characteristics
+__Institutional Characteristics__
 
 The broader context in which a migration takes place will shape many of the decisions made. Some points to consider include: 
 * Type, size, and budget of institution:
@@ -41,19 +41,16 @@ The broader context in which a migration takes place will shape many of the deci
       * The number of IT professionals supporting digital collection management
       * The departments of staff supporting digital collection management
 
-
-Digital Collection Management
+__Digital Collection Management__
 
 Other contextual considerations specifically around the management of your digital collections are useful to keep in mind when forming a project team: 
-<ul>
-    <li>Primary stakeholders for your digital collections</li>
-    <li>Intended audience(s) for your digital collections</li>
-    <li>Structures, committees, and policies in place related to the administration of digital collections.
-        <ul><li>This may include individuals or groups that create policy, have technical administrative control over the repository, etc.</li></ul>
-    <li>What system interactions and dependencies exist around digital collections?
-        <ul><li>For example, the ILS pulls digital collection data from an API, etc.</li></ul>
-            </li>
-        </ul>
+
+* Primary stakeholders for your digital collections
+* Intended audience(s) for your digital collections
+* Structures, committees, and policies in place related to the administration of digital collections.
+    * This may include individuals or groups that create policy, have technical administrative control over the repository, etc.
+* What system interactions and dependencies exist around digital collections?
+    * For example, the ILS pulls digital collection data from an API, etc.
         
 ### Digital Library Analysis
 
@@ -101,15 +98,14 @@ To adequately plan and prepare for migration, it is crucial to have a deep under
 
 __Metadata Profiles__
 What is/are the metadata profile(s) for your current digital collections?
-<ul><li>What schema(s) are used?
-        <ul><li>Examples: Dublin Core, MODS, MARC, EAD, Local metadata schema, etc.</li></ul></li>
-    <li>Is the same schema used across your entire digital library or does it vary by collection?</li>
-    <li>What fields are required?</li>
-    <li>What data type(s) populate those fields?
-        <ul><li>Examples: Strings, Numbers, URIs</li></ul></li>
-    <li>What controlled vocabularies are used?
-        <ul><li>Examples: Library of Congress Name Authority File (LCNAF), Library of Congress Subject Headings (LCSH), Thesaurus of Geographic Names (TGN), DCMI Type Vocabulary, Local vocabulary, etc.</li></ul></li>
-    </ul>
+* What schema(s) are used?
+    * Examples: Dublin Core, MODS, MARC, EAD, Local metadata schema, etc.
+* Is the same schema used across your entire digital library or does it vary by collection?
+* What fields are required?
+* What data type(s) populate those fields?
+    * Examples: Strings, Numbers, URIs
+* What controlled vocabularies are used?
+    * Examples: Library of Congress Name Authority File (LCNAF), Library of Congress Subject Headings (LCSH), Thesaurus of Geographic Names (TGN), DCMI Type Vocabulary, Local vocabulary, etc.
     
 What is the metadata profile for your new repository? (See examples above)
 
