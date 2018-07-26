@@ -33,7 +33,7 @@ An Electron application in development for mapping and exporting CONTENTdm metad
 
 ### Hunting
 [https://github.com/uhlibraries-digital/hunting](https://github.com/uhlibraries-digital/hunting)<br>
-A Ruby gem that provides CONTENTdm API convenience methods, developed by Andrew Weidner (University of Houston) as a tool that facilitates export and transformation of legacy descriptive metadata for normalization and migration. Hunting gathers high level information about a CONTENTdm repository into `Repository` objects, including collection aliases, collection names, and the number of items in a collection, all contained with `Collection` objects. From there, using the `hunt` method for iteration or the `trap` method for isolation, Hunting gathers complete descriptive metadata for items in a `Collection`. Hunting is effective for creating descriptive metadata reports for use in tools like OpenRefine (described below).
+A Ruby gem that provides CONTENTdm API convenience methods, developed by Andrew Weidner (University of Houston) as a tool that facilitates export and transformation of legacy descriptive metadata for normalization and migration. Hunting gathers high level information about CONTENTdm collections, including aliases, names, and the number of items in a collection. From there, using methods for iterating through a collection's items or for isolating individual items, Hunting gathers complete descriptive metadata for items in a collection. Hunting is effective for creating descriptive metadata reports for use in tools like OpenRefine (described below).
 
 ## Metadata Normalization
 
