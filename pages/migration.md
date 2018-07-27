@@ -32,7 +32,7 @@ Careful planning is arguably the most important step in migration. It requires c
 
 __Institutional Characteristics__
 
-The broader context in which a migration takes place will shape many of the decisions made. Some points to consider include: 
+The broader context in which a migration takes place will shape many of the decisions made. Some points to consider include:
 * Type, size, and budget of institution:
     * These indicate the broader goals of the organization and and overall picture of resources that may be available. Additionally, there may be state or city policies that may impact elements of the migration process.
 * Digital collections staffing:
@@ -43,7 +43,7 @@ The broader context in which a migration takes place will shape many of the deci
 
 __Digital Collection Management__
 
-Other contextual considerations specifically around the management of your digital collections are useful to keep in mind when forming a project team: 
+Other contextual considerations specifically around the management of your digital collections are useful to keep in mind when forming a project team:
 
 * Primary stakeholders for your digital collections
 * Intended audience(s) for your digital collections
@@ -51,18 +51,18 @@ Other contextual considerations specifically around the management of your digit
     * This may include individuals or groups that create policy, have technical administrative control over the repository, etc.
 * What system interactions and dependencies exist around digital collections?
     * For example, the ILS pulls digital collection data from an API, etc.
-        
+
 ### Digital Library Analysis
 
 Making a full assessment of your digital library content, including the types of resources included and the condition of your metadata gives you an overall view of the condition of your digital library and reveals the type of pre-work you may need to plan for before migrating.
- 
+
 This analysis is typically most useful when compiled collection by collection, and formatted in such a way to enable visualization of patterns and needs across collections. This exercise also helps identify collections that may be simplest for testing and those that are most challenging.
 
-Overall information that is useful to collect: 
+Overall information that is useful to collect:
 
-* Number of digital collections to be migrated (Free text)
-* Number of digital objects to be migrated (Free text)
-* Total size (TB) of digital objects to be migrated (Free text)
+* Number of digital collections to be migrated
+* Number of digital objects to be migrated
+* Total size (TB) of digital objects to be migrated
 
 
 ### Content Analysis
@@ -90,13 +90,14 @@ An inventory of file formats currently in use will help you create a full pictur
 
 __File Locations__
 
-As new standards are implemented and staff come and go, file management practices change. A migration provides an opportunity for an inventory of your files. While migration tools may provide you with the option to migrate existing files or derivatives directly from your current digital library to a new system, you may decide to upload files from your local file system. If you plan for the latter, locating these files, organizing them, and moving them to an accessible or centralized location may be a good strategy and should be a consideration when planning your migration. 
+As new standards are implemented and staff come and go, file management practices change. A migration provides an opportunity for an inventory of your files. While migration tools may provide you with the option to migrate existing files or derivatives directly from your current digital library to a new system, you may decide to upload files from your local file system. If you plan for the latter, locating these files, organizing them, and moving them to an accessible or centralized location may be a good strategy and should be a consideration when planning your migration.
 
 ### Metadata Analysis
 
 To adequately plan and prepare for migration, it is crucial to have a deep understanding of your existing metadata as well as the metadata requirements of the new system. The following areas of focus can provide you with insight to inform migration decisions.
 
 __Metadata Profiles__
+
 What is/are the metadata profile(s) for your current digital collections?
 * What schema(s) are used?
     * Examples: Dublin Core, MODS, MARC, EAD, Local metadata schema, etc.
@@ -106,7 +107,7 @@ What is/are the metadata profile(s) for your current digital collections?
     * Examples: Strings, Numbers, URIs
 * What controlled vocabularies are used?
     * Examples: Library of Congress Name Authority File (LCNAF), Library of Congress Subject Headings (LCSH), Thesaurus of Geographic Names (TGN), DCMI Type Vocabulary, Local vocabulary, etc.
-    
+
 What is the metadata profile for your new repository? (See examples above)
 
 * What schema(s) are used?
@@ -119,16 +120,13 @@ __Data Quality__
 
 Assessing your current metadata quality will help you make decisions around metadata remediation needs, timing, and strategies. Consulting resources on metadata quality and remediation strategies can help frame your analysis and path forward, but the following areas of focus will give you a broad view of metadata quality in your collections.
 
-Do you have local metadata input guidelines?
-
-Have metadata values been entered consistently across your digital collections?
-
-Does you metadata -  elements and/or values - align with any other standards or best practices?
-* Examples: Describing Archives: A Content Standard (DACS), The Digital Public Library of American Application Profile (DPLA-MAP), etc.
-
-How do you indicate copyright in your digital collections?
-* What metadata field(s) are used?
-* What values appear in this field? Varying local statements? Standard local statements? Rightsstatements.org values or URIs?
+* Do you have local metadata input guidelines?
+* Have metadata values been entered consistently across your digital collections?
+* Does you metadata -  elements and/or values - align with any other standards or best practices?
+    * Examples: Describing Archives: A Content Standard (DACS), The Digital Public Library of American Application Profile (DPLA-MAP), etc.
+* How do you indicate copyright in your digital collections?
+    * What metadata field(s) are used?
+    * What values appear in this field? Varying local statements? Standard local statements? Rightsstatements.org values or URIs?
 
 ## Normalize Metadata
 
@@ -261,7 +259,7 @@ A Hyku generic work has 16 fields
   </tr>
 </table>
 
-For more information regarding these Fields, including expected values and examples, please visit the <a href="https://docs.google.com/document/d/1RXRT08236E98RTKASX-bL60qLoBeZgYXFUSD4XBOIa">_Hyku Metadata Documentation (DRAFT)_</a> and <a href="https://gist.github.com/cmh2166/723bebaee52d9ba4eb68eebc904484">_Hyrax Metadata Technical Documentation_</a>. 
+For more information regarding these Fields, including expected values and examples, please visit the <a href="https://docs.google.com/document/d/1RXRT08236E98RTKASX-bL60qLoBeZgYXFUSD4XBOIa">_Hyku Metadata Documentation (DRAFT)_</a> and <a href="https://gist.github.com/cmh2166/723bebaee52d9ba4eb68eebc904484">_Hyrax Metadata Technical Documentation_</a>.
 
 ### Map Metadata
 
@@ -273,15 +271,15 @@ Many of these crosswalks have become standardized and are available from the Lib
     <li><a href="http://www.loc.gov/standards/mods/dcsimple-mods.html">Dublin Core to MODS</a></li>
     <li><a href="http://www.loc.gov/marc/marc2dc.html">MARC to Dublin Core</a></li>
     <li><a href="https://www.loc.gov/standards/mods/mods-mapping.html">MARC to MODS</a></li></ul>
-    
+
 Crosswalking is not always as simple as changing the field name, as laid out in the white paper <a href="https://groups.niso.org/publications/white_papers/crosswalk/">"Issues in Crosswalking Content Metadata Standards"</a> (1998)  by St. Pierre and LaPlant. Some common issues are:
 
 <ul><li><strong>One-to-Many:</strong> When an element in your current schema has separate elements in your target system.  Example: if your current system only uses "date", it’s possible to enter a schema that has multiple date fields.</li>
     <li><strong>No clear binary:</strong> When an existing element has no clear equivalent in the new system. This occurs often when the granularity of your system is higher than that of the target. Typically this will result in a broader list of entries within the keywords or description fields. When confronting this challenge, you will often lose specificity or may choose to omit fields from your existing metadata altogether.</li>
     <li><strong>Structural differences:</strong> Some schemas (EAD, etc) allow for hierarchical metadata, while others (MARC, etc) are flat. </li></ul>
-    
+
 There are no easy ways around the issues above, and your institution’s decisions on these should come from internal knowledge and context. CONTENTdm and Hyku both use Dublin Core, so the crosswalking required is at the field-level and will require mapping decisions that could be unique to your CONTENTdm instance or even your individual collections.  The Bridge2Hyku toolkit includes CDM-Bridge which comes preloaded with Hyku’s standard target metadata to get you a head start on determining your mapping and easily exporting your metadata through it.  
-    
+
 
 
 ### Source Repository Export
@@ -306,7 +304,7 @@ _add content here..._
 
 ## Migration Resources
 
-### Deciding to Make The Leap 
+### Deciding to Make The Leap
 
 - <a href="http://www.dlib.org/dlib/september15/stein/09stein.html">Taking Control: Identifying Motivations for Migrating Library Digital Asset Management Systems</a><br>_Ayla Stein and Santi Thompson (October 2015)_
 
@@ -318,7 +316,7 @@ _add content here..._
 
 - <a href="https://www.bepress.com/webinar/evaluating-planning-completing-successful-migration-case-study/">Evaluating, Planning, and Completing a Successful Migration: A Case Study</a><br>_Elizabeth Chance (2018)_
 
-### Metadata Migration Resources 
+### Metadata Migration Resources
 
 - <a href="http://dcpapers.dublincore.org/pubs/article/view/3861">Collaborative Metadata Application Profile Development for DAMS Migration</a><br>_Anne Washington and Andrew Weidner (2017)_
 
