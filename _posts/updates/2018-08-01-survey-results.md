@@ -3,7 +3,7 @@ layout: page
 #
 # Content
 #
-title: "Digital Collection Survey Report"
+title: "Digital Collections Survey Report"
 teaser: "As part of Phase 1, The Bridge2Hyku team completed a survey of all partner institutions."
 categories:
   - updates
