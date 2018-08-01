@@ -1,0 +1,26 @@
+---
+layout: page
+#
+# Content
+#
+title: "Digital Collection Survey Report"
+teaser: "As part of Phase 1, The Bridge2Hyku team completed a survey of all partner institutions. Here are the results"
+categories:
+  - updates
+tags:
+  - Phase 1
+  - Presentations
+  - Survey
+  - roadmap
+  - digital libraries
+#
+# Styling
+#
+header: no
+breadcrumbs: yes
+image:
+    title: results-title.jpg
+    thumb: results-thumb.jpg
+    homepage: results-home.jpg
+---
+
