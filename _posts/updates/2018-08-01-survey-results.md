@@ -26,7 +26,7 @@ image:
 
 The report available below has the survey results from the four partner institutions as well as analysis of what this means for the broader community and it's migration needs. 
 
-### [Bridge2Hyku Digital Collections Survey Report] (https://uh-ir.tdl.org/uh-ir/handle/10657/3307)
+### [Bridge2Hyku Digital Collections Survey Report](https://uh-ir.tdl.org/uh-ir/handle/10657/3307)
 
 The Bridge2Hyku team is using the implications below as we navigate Phase 2 of the project. 
 
