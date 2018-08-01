@@ -28,6 +28,7 @@ The report available below has the survey results from the four partner institut
 
 ### [Bridge2Hyku Digital Collections Survey Report](https://uh-ir.tdl.org/uh-ir/handle/10657/3307)
 
+
 The main takeaway of the report, the implications below, are now helping the project team navigate Phase 2 of the project.  
 
 Implications for Migration Tools
