@@ -28,7 +28,7 @@ The report available below has the survey results from the four partner institut
 
 ### [Bridge2Hyku Digital Collections Survey Report](https://uh-ir.tdl.org/uh-ir/handle/10657/3307)
 
-The Bridge2Hyku team is using the implications below as we navigate Phase 2 of the project. 
+The main takeaway of the report, the implications below, are now helping the project team navigate Phase 2 of the project.  
 
 Implications for Migration Tools
 * The migration tool(s) need to accommodate images, text and audio/visual materials in numerous access file types.
