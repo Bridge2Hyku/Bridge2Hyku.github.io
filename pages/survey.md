@@ -19,8 +19,9 @@ permalink: "/survey/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-*THE DIGITAL COLLECTION SURVEY REPORT IS NOW AVAILABLE [HERE»](https://bridge2hyku.github.io/updates/survey-results/)<br>
-WE STILL WELCOME RESPONSES TO HELP US GUIDE THE PROJECT BUT THEY WILL NOT BE PART OF THE Phase 1 REPORT*
+*THE DIGITAL COLLECTION SURVEY REPORT IS NOW AVAILABLE [HERE»](https://bridge2hyku.github.io/updates/survey-results/)*
+
+*WE STILL WELCOME RESPONSES TO HELP US GUIDE THE PROJECT BUT THEY WILL NOT BE PART OF THE Phase 1 REPORT*
 
 ## About the Digital Collections Survey
 
