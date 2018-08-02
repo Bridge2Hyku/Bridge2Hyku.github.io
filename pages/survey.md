@@ -19,6 +19,9 @@ permalink: "/survey/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
+*THE DIGITAL COLLECTION SURVEY REPORT IS NOW AVAILABLE [HERE»](https://bridge2hyku.github.io/updates/survey-results/)
+WE STILL WELCOME RESPONSES TO HELP US GUIDE THE PROJECT BUT THEY WILL NOT BE PART OF THE Phase 1 REPORT*
+
 ## About the Digital Collections Survey
 
 Are you looking to migrate your digital collections? We would love to hear from you.  The Bridge2Hyku Digital Collections Survey is a comprehensive list of questions regarding your institution's library characteristics, metadata, workflows, current digital collections, and current repositories.
