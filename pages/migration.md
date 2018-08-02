@@ -69,7 +69,7 @@ Overall information that is useful to collect:
 
 __Data Types__
 
-This is focused on the type and structure of the digital objects in your current system. What type of content is in your digital library? How are your digital objects structured now? Can they be accomodated in the new system? This is one example of some ways you may characterize content:
+This is focused on the type and structure of the digital objects in your current system. What type of content is in your digital library? How are your digital objects structured now? Can they be accommodated in the new system? This is one example of some ways you may characterize content:
 
 * Single sided photograph
 * Double sided photograph
