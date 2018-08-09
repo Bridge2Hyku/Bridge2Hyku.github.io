@@ -316,6 +316,8 @@ _add content here..._
 
 - <a href="https://www.bepress.com/webinar/evaluating-planning-completing-successful-migration-case-study/">Evaluating, Planning, and Completing a Successful Migration: A Case Study</a><br>_Elizabeth Chance (2018)_
 
+- <a href="https://journal.code4lib.org/articles/13581">Are we still working on this? A meta-retrospective of a digital repository migration in the form of a classic Greek Tragedy (in extreme violation of Aristotelian Unity of Time)</a><br>_Steve Van Tuyl, Josh Gum, Margaret Mellinger, Gregorio Luis Ramirez, Brandon Straley, Ryan Wick, Hui Zhang (August 2018)_
+
 ### Metadata Migration Resources
 
 - <a href="http://dcpapers.dublincore.org/pubs/article/view/3861">Collaborative Metadata Application Profile Development for DAMS Migration</a><br>_Anne Washington and Andrew Weidner (2017)_
