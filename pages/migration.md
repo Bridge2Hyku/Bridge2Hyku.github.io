@@ -259,7 +259,7 @@ A Hyku generic work has 16 fields
   </tr>
 </table>
 
-For more information regarding these Fields, including expected values and examples, please visit the <a href="https://docs.google.com/document/d/1RXRT08236E98RTKASX-bL60qLoBeZgYXFUSD4XBOIa">_Hyku Metadata Documentation (DRAFT)_</a> and <a href="https://gist.github.com/cmh2166/723bebaee52d9ba4eb68eebc904484">_Hyrax Metadata Technical Documentation_</a>.
+For more information regarding these Fields, including expected values and examples, please visit the <a href="https://docs.google.com/document/d/1RXRT08236E98RTKASX-bL60qLoBeZgYXFUSD4XBOIaE/edit">_Hyku Metadata Documentation (DRAFT)_</a> and <a href="https://gist.github.com/cmh2166/723bebaee52d9ba4eb68eebc9044843b">_Hyrax Metadata Technical Documentation_</a>.
 
 ### Map Metadata
 
