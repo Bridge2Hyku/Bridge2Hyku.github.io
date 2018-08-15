@@ -253,16 +253,13 @@ body.video cite { color: #fff; }
     position: fixed;
     bottom: 0;
     max-width: 100%;
-    z-index: -1;
-    
-    > div {
-        z-index: 0;
-    }
+    pointer-events: none;
 }
 #up-to-top a {
     font-size: 24px;
     padding: 5px;
     border-radius: 3px;
+    pointer-events: auto;
 }
 #up-to-top a:hover {
     background: $grey-2;
