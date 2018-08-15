@@ -253,6 +253,11 @@ body.video cite { color: #fff; }
     position: fixed;
     bottom: 0;
     max-width: 100%;
+    z-index: -1;
+    
+    > div {
+        z-index: 0;
+    }
 }
 #up-to-top a {
     font-size: 24px;
