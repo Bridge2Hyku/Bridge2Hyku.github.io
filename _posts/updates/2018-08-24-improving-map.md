@@ -62,24 +62,24 @@ Based on the success of our MAP development process, the following recommendatio
 
 To learn more about the details and outcomes of the UH Libraries Descriptive Metadata Working Group, see:
 
-Washington, Anne, Andrew Weidner. Collaborative Metadata Application Profile Development for DAMS Migration. *DCMI International Conference on Dublin Core and Metadata Applications.* Washington, D.C., October 2017. http://hdl.handle.net/10657/2069
+Washington, Anne, Andrew Weidner. Collaborative Metadata Application Profile Development for DAMS Migration. *DCMI International Conference on Dublin Core and Metadata Applications.* Washington, D.C., October 2017. [http://hdl.handle.net/10657/2069]
 
 ### Other examples of mapping work
 
 __University of Oregon Libraries and the Oregon State University:__
 
 Simic, Julia and Sarah Seymore. (2016). From Silos to Opaquenamespace: Oregon Digital’s Migration to Linked Open Data in Hydra. *Art Documentation: Journal of the Art Libraries Society of North America 35*(2), 305-320.
-https://doi.org/10.1086/688730
+[https://doi.org/10.1086/688730]
 
 __Artexte, Canadian organization providing access to contemporary arts publications:__
 
-Neugebauer, T., MacDonald, C. & Tayler. (2010). Artexte metadata conversion to EPrints: adaptation of digital repository software to visual and media arts documentation. *International Journal on Digital Libraries, 11*, 263. https://doi.org/10.1007/s00799-011-0077-5
+Neugebauer, T., MacDonald, C. & Tayler. (2010). Artexte metadata conversion to EPrints: adaptation of digital repository software to visual and media arts documentation. *International Journal on Digital Libraries, 11*, 263. [https://doi.org/10.1007/s00799-011-0077-5]
 
 ## Examples of Metadata Application Profiles:
 
 Metadata Application Profile Clearinghouse
-https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/
+[https://dlfmetadataassessment.github.io/MetadataSpecsClearinghouse/]
 
 ### Footnotes <a id="Footnotes"></a>
 
-1. Wu, Annie, Santi Thompson, Rachel Vacek, Sean Watkins, Andy Weidner. (2016). Hitting the Road towards a Greater Digital Destination: Evaluating and Testing DAMS at the University of Houston Libraries. *Information Technology and Libraries, 35*(2). https://doi.org/10.6017/ital.v35i2.9152
+1. Wu, Annie, Santi Thompson, Rachel Vacek, Sean Watkins, Andy Weidner. (2016). Hitting the Road towards a Greater Digital Destination: Evaluating and Testing DAMS at the University of Houston Libraries. *Information Technology and Libraries, 35*(2). [https://doi.org/10.6017/ital.v35i2.9152]
