@@ -24,6 +24,7 @@ permalink: "/partners/"
           Andy Weidner <i>Project Manager</i><br>
           Todd Crocken <i>Content Strategist</i><br>
           Sean Watkins <i>Software Developer</i><br>
+          Leroy Vallejo <i>Software Developer</i><br>
           Anne Washington <i>Migration Strategist</i><br>
       </figcaption>
     </figure>
