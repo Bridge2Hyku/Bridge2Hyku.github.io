@@ -25,10 +25,10 @@ The tools below are available to help move your content out of CONTENTdm.
 
 ### CDM Migrator
 [https://github.com/Bridge2Hyku/cdm_migrator](https://github.com/Bridge2Hyku/cdm_migrator)<br>
-The CDM Migrator is designed to export individual CONTENTdm collections to a CSV for metadata normalization. It then provides a batch import interface for Hyrax via a CSV upload. Developed by Braydon Justice (University of Victoria).
+The CDM Migrator is designed to export individual CONTENTdm collections to a CSV for metadata normalization. It then provides a batch import interface for Hyrax via a CSV upload. Developed by Braydon Justice (University of Victoria). 
 
 ### CDM Bridge
-[https://github.com/Bridge2Hyku/cdm-bridge](https://github.com/Bridge2Hyku/cdm-bridge)<br>
+[https://github.com/Bridge2Hyku/cdm-bridge/releases](https://github.com/Bridge2Hyku/cdm-bridge/releases)<br>
 An Electron application in development for mapping and exporting CONTENTdm metadata. It also provides the option of exporting files from CONTENTdm.
 
 ### Hunting
@@ -50,6 +50,11 @@ For Windows users, AutoHotkey (AHK) provides a full-featured desktop automation 
 - [Automated Enhancement of Controlled Vocabularies: Upgrading Legacy Metadata in CONTENTdm](http://dcevents.dublincore.org/IntConf/dc-2014/paper/view/218) (Andrew Weidner, Annie Wu & Santi Thompson, 2014) describes data reconciliation and normalization tools for automatically enriching and standardizing controlled vocabulary data in CONTENTdm.
 - [AutoType](https://github.com/metaweidner/AutoType) is a simple AHK application for repetitive data entry.
 
+## Hyku/Hyrax Batch Importing
+
+### Hybridge
+[https://github.com/Bridge2Hyku/hybridge](https://github.com/Bridge2Hyku/hybridge)<br>
+Bridge2Hyku's UI-intergrated rubygem for Hyku. This importer pairs with CDM Bridge for a fully-functional migration workflow. 
 
 {% include _improve_content.html %}
 </div>
