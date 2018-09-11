@@ -23,7 +23,7 @@ image:
     thumb: first-answers-thumb.jpg
     homepage: first-answers-home.jpg
 ---
-If you came across our recent blog post [“The First Three Questions to Understanding the Complexity of a Digital Library Migration”](/best-practices/three-migration-questions/) and realized you couldn’t quickly answer those questions, it’s time for some content analysis. [Content Analysis[(https://en.wikipedia.org/wiki/Content_analysis) is a catchall term for analyzing text and files in aggregate. It’s an important step to do before you start a content migration.  
+If you came across our recent blog post [“The First Three Questions to Understanding the Complexity of a Digital Library Migration”](/best-practices/three-migration-questions/) and realized you couldn’t quickly answer those questions, it’s time for some content analysis. [Content Analysis](https://en.wikipedia.org/wiki/Content_analysis) is a catchall term for analyzing text and files in aggregate. It’s an important step to do before you start a content migration.  
 
 First, decide what your parameters are. Are you trying to find out the total size of your digital repository? Do you only need to understand how many collections have audio/video components? Are you unsure how many metadata fields actually exist across your digital library? Once you know what data you’re hoping to find, use a spreadsheet to lay it out visually.  
 
