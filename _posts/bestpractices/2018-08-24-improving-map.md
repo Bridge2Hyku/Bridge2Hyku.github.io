@@ -6,7 +6,7 @@ layout: page
 title: "Improving your Metadata Application Profile for System Migration"
 teaser: "Recommendations for collaboratively improving your metadata application profile."
 categories:
-  - updates
+  - best-practices
 tags:
   - metadata
   - migration
