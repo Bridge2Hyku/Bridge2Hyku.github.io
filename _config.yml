@@ -133,7 +133,9 @@ defaults:
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
 #
 
-
+tipue_search:
+  include:
+    pages: true
 
 #     _____ __________
 #    / ___// ____/ __ \
