@@ -3,6 +3,7 @@ permalink: /search/
 layout: page
 title: "Search"
 tipue_search_active: true
+exclude_from_search: true
 sitemap: false
 ---
 
