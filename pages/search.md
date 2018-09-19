@@ -1,6 +1,6 @@
 ---
 permalink: /search/
-layout: page
+layout: default
 title: "Search"
 tipue_search_active: true
 sitemap: false
