@@ -47,7 +47,7 @@ permalink: "/partners/"
       <img src="/images/logos/logo-um.png" alt="University of Miami Logo">
       <figcaption class="text-left">
         <a href="https://welcome.miami.edu/">https://welcome.miami.edu</a><br>
-          Sarah Shreeves <i>Advisory Board Member</i><br>
+          Laura Capell <i>Advisory Board Member</i><br>
           Paul Clough <i>Software Developer</i><br>
           Elliot Williams <i>Migration Strategist</i>
       </figcaption>
