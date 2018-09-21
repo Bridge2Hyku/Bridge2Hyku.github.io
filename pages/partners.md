@@ -73,6 +73,7 @@ permalink: "/partners/"
       <img src="/images/logos/logo-tdl.png" alt="Texas Digital Library">
       <figcaption class="text-left">
         <a href="https://tdl.org/">https://tdl.org</a><br>
+          Kristi Park <i>Advisory Board Member</i><br>
           Courtney Mumma <i>Migration Strategist</i><br>
           Nicholas Woodward <i>Software Developer</i>
       </figcaption>
