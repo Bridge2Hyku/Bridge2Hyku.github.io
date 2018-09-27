@@ -2,21 +2,24 @@
 permalink: /search/
 layout: page
 title: "Search"
-tipue_search_active: true
-exclude_from_search: true
 sitemap: false
 ---
 
-<form action="{{ page.url | relative_url }}">
-  <div class="tipue_search_left"><img src="{{ "/assets/tipuesearch/search.png" | relative_url }}" class="tipue_search_icon"></div>
-  <div class="tipue_search_right"><input type="text" name="q" id="tipue_search_input" pattern=".{3,}" title="At least 3 characters" required></div>
-  <div style="clear: both;"></div>
-</form>
+<div class="container">
+	<div class="well" id="searchbox">
+		<input id="search-field" placeholder="Search the Site"/>
+		<ul id="results"></ul>
+	</div>
+</div>
 
-<div id="tipue_search_content"></div>
-
-<script>
-$(document).ready(function() {
-  $('#tipue_search_input').tipuesearch();
-});
+{% raw %}
+<script src="/assets/js/jquery.camelhunter.min.js"></script>
+<script type="text/javascript">
+	$("#search-field").camelHunter({
+		onKeyUp 			: true,
+		rss: "/search.xml",
+    results   : "#results",
+    result_template : "<a href='{{link}}'><p><h2>{{title}}</h2><h4>{{description}}</h4>",
+	});
 </script>
+{% endraw %}
