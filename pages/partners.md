@@ -133,9 +133,8 @@ permalink: "/partners/"
       <img src="/images/logos/logo-duraspace.png" alt="DuraSpace Logo">
       <figcaption class="text-left">
         <a href="http://duraspace.org/">http://duraspace.org</a><br>         
-          Debra Hanken Kurtz <i>Advisory Board Member</i><br>
+          Erin Tripp <i>Advisory Board Member</i><br>
           David Wilcox <i>Advisory Board Member</i><br>
-          Erin Tripp <i>Advisory Board Member</i>
       </figcaption>
     </figure>
   </div>
