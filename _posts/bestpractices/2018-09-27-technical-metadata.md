@@ -25,6 +25,7 @@ image:
 One of the reasons to move to Hyrax/Hyku from legacy systems is the underlying RDF-based Fedora-4 layer, so it is important to understand what this means for your metadata and data as a whole. Work at Indiana University has created two great documents to help you understand Fedora’s metadata and a switch from XML to RDF:
 
 : Fedora Metadata Storage Philosophy (PDF, 2007)<br>[“https://wiki.dlib.indiana.edu/spaces/flyingpdf/pdfpageexport.action?pageId=441”](https://wiki.dlib.indiana.edu/spaces/flyingpdf/pdfpageexport.action?pageId=441)
+
 : The Semantics of Metadata: Avalon Media System and the Move to RDF (2017)<br>["https://journal.code4lib.org/articles/12668"](https://journal.code4lib.org/articles/12668)
 
 So while objects in Hyku have most of their metadata at the generic work level, ("available to view here")[/migration/#model-work-types], theres still quite a few things that exist at the Fedora level, ("some of which is shown here.")[https://wiki.duraspace.org/display/samvera/Technical+Metadata+Application+Profile]
