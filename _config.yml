@@ -21,7 +21,7 @@ credits: '<p>Made with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
 
 # Main author of the website
 # See > authors.yml
-author: Crocken
+author: Bridge2Hyku Team
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -133,11 +133,6 @@ defaults:
 #  Open _data/navigation.yml to adjust the left and right topbar navigation
 #
 
-tipue_search:
-  include:
-    pages: true
-  exclude:
-    files: [search.md]
 
 #     _____ __________
 #    / ___// ____/ __ \
