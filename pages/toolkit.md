@@ -24,7 +24,7 @@ permalink: "/toolkit/"
 The tools below are available to help move your content out of CONTENTdm and into Hyku.
 
 ### CDM Bridge
-[https://github.com/Bridge2Hyku/cdm-bridge/releases](bit.ly/cdmbridge)<br>
+[https://github.com/Bridge2Hyku/cdm-bridge/releases](http://bit.ly/cdmbridge)<br>
 An Electron desktop application for crosswalking and exporting CONTENTdm metadata. It also provides the option of exporting files from CONTENTdm. CDM Bridge connects to the CONTENTdm API and presents a custom crosswalking interface for each collection. Metadata specialists may use the application to generate lists of field values for cleanup and normalization prior to migration. When a collection is ready for migration CDM Bridge generates a CSV, with or without the files from CONTENTdm, that may be used to ingest the collection into Hyku with HyBridge.
 
 ### HyBridge
