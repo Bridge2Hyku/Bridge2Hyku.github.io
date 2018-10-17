@@ -24,15 +24,15 @@ permalink: "/toolkit/"
 The tools below are available to help move your content out of CONTENTdm and into Hyku.
 
 ### CDM Bridge
-<https://github.com/Bridge2Hyku/cdm-bridge/releases><br>
+[https://github.com/Bridge2Hyku/cdm-bridge/releases](bit.ly/cdmbridge)<br>
 An Electron desktop application for crosswalking and exporting CONTENTdm metadata. It also provides the option of exporting files from CONTENTdm. CDM Bridge connects to the CONTENTdm API and presents a custom crosswalking interface for each collection. Metadata specialists may use the application to generate lists of field values for cleanup and normalization prior to migration. When a collection is ready for migration CDM Bridge generates a CSV, with or without the files from CONTENTdm, that may be used to ingest the collection into Hyku with HyBridge.
 
 ### HyBridge
-<https://github.com/Bridge2Hyku/hybridge><br>
+[https://github.com/Bridge2Hyku/hybridge](http://bit.ly/hykubridge)<br>
 HyBridge is a Ruby Gem importer that must be installed within the Hyku application. This importer is integrated in the Hyku Dashboard and pairs with CDM Bridge for a basic migration workflow from a local or hosted CONTENTdm to a hosted Hyku repository. Clients should work with their hosted service provider to have HyBridge installed on their hosted Hyku repository and establish a workflow for staging migration content on the service provider's system. Once HyBridge has been installed and CDM Bridge migration content is available on the provider's staging server, HyBridge provides a simple interface for getting batch content into Hyku.
 
 ### CDM Migrator
-<https://github.com/Bridge2Hyku/cdm_migrator><br>
+[https://github.com/Bridge2Hyku/cdm_migrator](http://bit.ly/cdm-migrator)<br>
 The CDM Migrator is a Ruby Gem designed for a complete CONTENTdm to Hyku export workflow. After installing the gem in Hyku, the application provides two user interfaces. The first allows migrators to crosswalk and export individual CONTENTdm collections to a CSV for metadata normalization, with or without the files stored in CONTENTdm. It then presents a batch import interface for Hyrax via the exported CSV. The CDM Migrator is ideal for institutions migrating from a local CONTENTdm to a local Hyku repository. Developed by Braydon Justice (University of Victoria).
 
 ### Hunting
