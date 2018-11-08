@@ -28,7 +28,7 @@ If you’re planning to migrate from CONTENTdm to another platform, one of the f
 
 Below are some examples of what other metadata librarians are trimming: 
 
-!(/leaves-snapshot.png "slack message")
+![slack message of duketerms:chimpanzee](/images/leaves-snapshot.png "slack message")
 
 The slack response above should remind you that having fields that won’t have interoperability with other systems is a good place to start with cutting off. 
 
