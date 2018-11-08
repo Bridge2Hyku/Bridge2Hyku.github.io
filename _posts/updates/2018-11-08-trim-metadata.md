@@ -28,7 +28,8 @@ If you’re planning to migrate from CONTENTdm to another platform, one of the f
 
 Below are some examples of what other metadata librarians are trimming: 
 
-![image of slack channel message with duketerms:chimpanzee ](/leaves-snapshot.png "slack message")
+!(/leaves-snapshot.png "slack message")
+
 The slack response above should remind you that having fields that won’t have interoperability with other systems is a good place to start with cutting off. 
 
 Anne Washington, Metadata Services Coordinator at University of Houston, was able to turn 8 fields to 2: 
