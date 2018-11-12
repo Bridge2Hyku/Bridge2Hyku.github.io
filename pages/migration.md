@@ -189,6 +189,60 @@ __When__
 
 You must also consider when in your migration you should you normalize your data: before the migration; in-transit, or after the migration is complete. There are benefits and drawbacks to each approach.
 
+<table>
+  <tr>
+    <th>Approach</th>
+    <th>Benefits</th>
+    <th>Drawbacks</th>
+  </tr>
+  <tr>
+    <td><b>Before Migration</b><p>Normalizing data in the current system</p></td>
+    <td>
+      <ul>
+        <li>The work is done before migration to a new system</li>
+        <li>Data going into your system is more normalized</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Time intensive</li>
+        <li>Could extend migration timeline</li>
+        <li>Dependent on your current system’s editing/batch process capabilities</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>In transit</b><p>Normalize data after it is exported from the current system, but before it is imported into the new system</p></td>
+    <td>
+      <ul>
+        <li>Data going into your system is more normalized</li>
+        <li>May have improved flexibility for normalization than before export</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Time intensive</li>
+        <li>Could extend migration timeline</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>After migration</b><p>Normalize the data in the new system</p></td>
+    <td>
+      <ul>
+        <li>Less time intensive up-front</li>
+        <li>Can be done after new system functionality is understood</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Data going into the new system may be less normalized</li>
+        <li>May not be as likely to go back and normalize data. There may be more motivation to do this before migration</li>
+      </ul>
+    </td>
+  </tr>       
+</table>
+
 ## Migrate Content
 
 Once you’ve normalized your metadata, you have to move it into your new system.  If you are moving onto a hosted platform, this might require another round of metadata changes to accommodate the platform’s framework. The steps here include: identify the platform’s requirements, crosswalk your schema to the new one, export your content, and finally import your content.
