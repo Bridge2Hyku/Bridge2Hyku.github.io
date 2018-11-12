@@ -133,8 +133,8 @@ Assessing your current metadata quality will help you make decisions around meta
 After analyzing your metadata and possibly establishing a new Metadata Application Profile (see "Map Metadata" section below), you may learn that you need to do some metadata normalization. For the purposes of this discussion, metadata normalization includes both:
 
 <ol>
-  <li>__Standardization__ : standardizing inputs and aligning values with your Metadata Application Profile</li>
-  <li>__Enrichment__ : utilizing/reconciling with new controlled vocabularies to standardize values; adding URIs to metadata</li>
+  <li><b>Standardization</b>: standardizing inputs and aligning values with your Metadata Application Profile</li>
+  <li><b>Enrichment</b>: utilizing/reconciling with new controlled vocabularies to standardize values; adding URIs to metadata</li>
 </ol>
 
 There are a variety of reasons that metadata may not be standardized within and across your collections, but in many cases it is desirable to bring metadata values into alignment. You may still have some outliers, but you can institute some normalization across collections.
