@@ -130,7 +130,7 @@ Assessing your current metadata quality will help you make decisions around meta
 
 ## Normalize Metadata
 
-After analyzing your metadata and possibly establishing a new Metadata Application Profile (see "Map Metadata" section below), you may learn that you need to do some metadata normalization. For the purposes of this discussion, metadata normalization includes both:
+After analyzing your metadata and possibly establishing a new Metadata Application Profile (see <a href="https://bridge2hyku.github.io/migration/#map-metadata">"Map Metadata"</a> section below), you may learn that you need to do some metadata normalization. For the purposes of this discussion, metadata normalization includes both:
 
 <ol>
   <li><b>Standardization</b>: standardizing inputs and aligning values with your Metadata Application Profile</li>
