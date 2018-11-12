@@ -133,8 +133,8 @@ Assessing your current metadata quality will help you make decisions around meta
 After analyzing your metadata and possibly establishing a new Metadata Application Profile (see "Map Metadata" section below), you may learn that you need to do some metadata normalization. For the purposes of this discussion, metadata normalization includes both:
 
 <ol>
-  <li>__Standardization__: standardizing inputs and aligning values with your Metadata Application Profile</li>
-  <li>__Enrichment__: utilizing/reconciling with new controlled vocabularies to standardize values; adding URIs to metadata</li>
+  <li>__Standardization__ : standardizing inputs and aligning values with your Metadata Application Profile</li>
+  <li>__Enrichment__ : utilizing/reconciling with new controlled vocabularies to standardize values; adding URIs to metadata</li>
 </ol>
 
 There are a variety of reasons that metadata may not be standardized within and across your collections, but in many cases it is desirable to bring metadata values into alignment. You may still have some outliers, but you can institute some normalization across collections.
@@ -142,12 +142,15 @@ There are a variety of reasons that metadata may not be standardized within and 
 To help you plan and work through normalization, consider the following:
 
 __Why__
+
 It is important to both understand and communicate to stakeholders the reasons why metadata normalization is necessary. Among migration practitioners, metadata normalization consistently surfaces as a critical component to the migration process. Putting this work into context and identifying its importance to the end goal can help manage expectations and keep folks motivated.
 
 __What__
+
 The first step in normalization is to identify and prioritize metadata issues and enhancements.
 
 _Identification_
+
 Through metadata assessment and analysis, you can identify areas for improvement. Examples of normalization may include:
 
 <ul>
@@ -167,34 +170,24 @@ Through metadata assessment and analysis, you can identify areas for improvement
 </ul>
 
 _Prioritization_
+
 Once issues have been identified, they will need to be prioritized. Prioritization should be done in concert with other stakeholders using the criteria works for your situation. For example, you may focus on normalizations that are the easiest or those that are most impactful. If your migration includes multiple collections, it is also good to prioritize the collections as well.  
 
 __How__
+
 Next, you must determine how you plan to address the issues you have identified and prioritized. The type of issues, the resources - time, personnel, skills - available, and the scale of your collection(s) will help determine what strategies will work best. Broadly, these approaches are manual, programmatic, or a mix of both.
 
 _Manual normalization_
+
 This strategy consists manually correctly metadata field by field, collection by collection, possibly taking advantage of batch export, import, and/or edit functions provided by your digital library system. Manual normalization may not require the advanced technical skills that programmatic work may require, but it is not particularly scalable.
 
 _Programmatic normalization_
+
 This approach utilizes scripts and other automated tools to normalize data. In practice, programmatic normalization is rarely entirely automated. Often, there is a need for manual process initiation and data review. Programmatic normalization requires additional skills and training, but is far more scalable than a manual approach.
 
 __When__
+
 You must also consider when in your migration you should you normalize your data: before the migration; in-transit, or after the migration is complete. There are benefits and drawbacks to each approach.
-
-
-
-
-### Before Export
-
-_add content here..._
-
-### In Transit
-
-_add content here..._
-
-### After Import
-
-_add content here..._
 
 ## Migrate Content
 
