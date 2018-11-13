@@ -11,15 +11,3 @@ sitemap: false
 		<ul id="results"></ul>
 	</div>
 </div>
-
-{% raw %}
-<script src="/assets/js/jquery.camelhunter.min.js"></script>
-<script type="text/javascript">
-	$("#search-field").camelHunter({
-		onKeyUp 			: true,
-		rss: "/search.xml",
-    results   : "#results",
-    result_template : "<p><a href='{{link}}'><h2>{{title}}</h2></a><h4>{{teaser}}</h4>{{description}}</p><hr>",
-	});
-</script>
-{% endraw %}
