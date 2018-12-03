@@ -383,7 +383,7 @@ There are no easy ways around the issues above, and your institution’s decisio
 
 ### Source Repository Export
 
-_add content here..._
+If you’ve already pulled your metadata out of your current system, you’ve likely stumbled upon the way to get your files out too. Many repositories have some file export functionality within their admin interface,  explore what your current repository is capable before doing your wholesale export. If your repository does not have any export functionality, this is a portion of your migration that will likely require IT or consortial support.
 
 ### Target Repository Import
 
