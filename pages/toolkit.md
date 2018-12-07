@@ -41,11 +41,15 @@ A Ruby gem that provides CONTENTdm API convenience methods. Hunting is useful as
 
 ## Metadata Normalization
 
-Use the tools below to make sense of your data and normalize it for migration.
+Use the tools and resources below to make sense of your data and normalize it for migration.
 
 ### OpenRefine
 <http://openrefine.org/><br>
 A powerful open source application that allows users to make sense of messy data. [Librarians love it](https://bridge2hyku.github.io/best-practices/librarians-love-openrefine/). It is especially appropriate for understanding your metadata in aggregate. OpenRefine’s faceted browsing abilities let users see how values cluster and how metadata can be cleaned up quickly.  Controlled vocabularies can also be used within OpenRefine’s tools to refine your metadata even more. OpenRefine can get bogged down with too much data, so try to limit the size of data that you load. One easy way is to cut out any metadata that involves more than a few words, such as descriptions or transcripts, in your CSV or spreadsheet before using OpenRefine.  
+
+### LibreCat/Catmandu
+<http://librecat.org/><br>
+A command line tool built by and for librarians to access and convert data.  It allows for the transformation of many metadata schemas, including MODS and MARC, and the easy movement between various databases, including Solr. If you have the technical skills, this toolkit has a lot of abilites and is documented well. 
 
 ### AutoHotkey
 <https://autohotkey.com/><br>
