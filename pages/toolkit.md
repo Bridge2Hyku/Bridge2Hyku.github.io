@@ -51,6 +51,10 @@ A powerful open source application that allows users to make sense of messy data
 <http://librecat.org/><br>
 A command line tool built by and for librarians to access and convert data.  It allows for the transformation of many metadata schemas, including MODS and MARC, and the easy movement between various databases, including Solr. If you have the technical skills, this toolkit has a lot of abilites and is documented well. 
 
+### DLF Metadata Assessment Interest Group Toolkit
+<https://dlfmetadataassessment.github.io/><br>
+The Digital Library Federation (DLF) Metadata Assessment Interest Group “collaboratively builds guidelines, best practices, tools and workflows around the evaluation and assessment of metadata used by and for digital libraries and repositories”. The group has a website that contains information useful to those interested in assessing and normalizing their data including a [detailed list of tools](https://docs.google.com/spreadsheets/d/1PCi_3pcWSFQ9fR54AxwO7LWuBUu2vbVw1etvw_UAl5g/edit#gid=0) well-suited for these purposes. 
+
 ### AutoHotkey
 <https://autohotkey.com/><br>
 For Windows users, AutoHotkey (AHK) provides a full-featured desktop automation scripting language. It can be used to create simple scripts that automate repetitive tasks with a custom keyboard hotkey. AHK can also be used to create desktop applications, complete with a GUI, that perform complex data transformation work. Below are a few examples of how AHK can be used to enrich descriptive data and streamline workflows:
