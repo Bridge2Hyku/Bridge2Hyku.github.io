@@ -401,7 +401,7 @@ A spot check entails the review of a limited number of random items. This can be
 
 If your new system supports metadata export functionality, you could use this to assess the content in the new repository. This review could be done in conjunction with a spot check of items in the new repository.
 
-What should you be checking for?
+### What should you be checking for?
 
 ### Data Integrity
 
