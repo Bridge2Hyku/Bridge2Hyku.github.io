@@ -391,25 +391,33 @@ _add content here..._
 
 ## Content Verification
 
-Once you have migrated your content to a new system, it is a good idea to make sure that it has transferred over intact. There are many approaches to this ranging from no review (Bad idea!) to reviewing each individual item. Possible approaches between these two extremes include: 
+Once you have migrated your content to a new system, it is a good idea to make sure that it has transferred over intact. There are many approaches to this ranging from no review (Bad idea!) to reviewing each individual item. Possible approaches between these two extremes include:
 
-### Spot check: 
+### Approaches
+__Spot check__
 
 A spot check entails the review of a limited number of random items. This can be done on different scales. You could systematically perform a spot check of several items from each collection migrated or you could spot check random items across the entire repository.
 
-### Metadata review: 
+__Metadata review__
 
 If your new system supports metadata export functionality, you could use this to assess the content in the new repository. This review could be done in conjunction with a spot check of items in the new repository.
 
-### What should you be checking for?
+### Measures
 
-### Data Integrity
+__What should you be checking for?__
 
-Did the metadata transfer over properly? Are the values in the appropriate fields? Does the metadata match the particular item
-
-### Data Presentation
-
-Is the file present? Does it load properly? Were thumbnails supposed to be created? Is faceted browsing working correctly? 
+<ul>
+  <li><b>Data Integrity:</b>
+    <ul>
+      <li>Did the metadata transfer over properly? Are the values in the appropriate fields? Does the metadata match the particular item?</li>
+    </ul>
+  </li>  
+  <li><b>Data Presentation:</b>
+    <ul>
+      <li>Is the file present? Does it load properly? Were thumbnails supposed to be created? Is faceted browsing working correctly?</li>
+    </ul>
+  </li>
+</ul>       
 
 ## Migration Resources
 
