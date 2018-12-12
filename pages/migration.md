@@ -383,7 +383,7 @@ There are no easy ways around the issues above, and your institution’s decisio
 
 ### Source Repository Export
 
-If you’ve already pulled your metadata out of your current system, you’ve likely stumbled upon the way to get your files out too. Many repositories have some file export functionality within their admin interface,  explore what your current repository is capable before doing your wholesale export. If your repository does not have any export functionality, this is a portion of your migration that will likely require IT or consortial support.
+If you’ve already pulled your metadata out of your current system, you’ve likely stumbled upon the way to get your files out too. Many repositories have some file export functionality within their admin interface,  explore what your current repository is capable before doing your wholesale export. If your repository does not have any export functionality, this is a portion of your migration that will likely require IT or consortial support. The Bridge2Hyku project team has created [CDM Bridge](https://bridge2hyku.github.io/toolkit/#cdm-bridge-wiki), a tool to help with exporting out of CONTENTdm, one of the most widely used repository platforms. 
 
 ### Target Repository Import
 
