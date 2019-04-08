@@ -4,7 +4,7 @@ layout: page
 # Content
 #
 title: "Bridge2Hyku Toolkit Pilot Test Report & Beta Release!"
-teaser: We’ve put our two tools through their paces and are proud to announce their beta release and our pilot test report."
+teaser: "We’ve put our two tools through their paces and are proud to announce their beta release and our pilot test report."
 categories:
   - updates
 tags:
