@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Workshop"
-teaser: "Information about the B2H Workshop found here"
+title: "Our Workshop"
+teaser: "Strategies and Tools for Digital Repository Selection and Migration"
 permalink: "/workshop/"
 header:
     image_fullwidth: "header_unsplash_right.jpg"
 ---
-We've gathered information from our workshop "Strategies and Tools for Digital Repository Selection and
-Migration" here for ease of use.  
+You can find all the worksheets, links, and info below for the Bridge2Hyku workshop.
+
 
 https://bridge2hyku.github.io/images/userstory-worksheet.pdf
 https://bridge2hyku.github.io/images/migration-planning-questionnaire.pdf
