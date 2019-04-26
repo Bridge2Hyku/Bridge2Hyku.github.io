@@ -13,6 +13,10 @@
 - title: "Hyku"
   url: "/hyku/"
   side: left
+  
+  - title: "Workshop"
+  url: "/workshop/"
+  side: right
 
 - title: About
   url: "/about/"
