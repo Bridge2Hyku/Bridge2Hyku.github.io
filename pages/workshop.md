@@ -14,8 +14,8 @@ Welcome to the Workshop page of our website.  If you're interested in attending 
 
 If you're attending/attended a workshop and need copies of the worksheets, here are the links:  
 
-[Userstory Worksheet](https://bridge2hyku.github.io/images/userstory-worksheet.pdf)
-[Migration Planning Questionnaire](https://bridge2hyku.github.io/images/migration-planning-questionnaire.pdf)
+[Userstory Worksheet](https://bridge2hyku.github.io/images/userstory-worksheet.pdf)<br>
+[Migration Planning Questionnaire](https://bridge2hyku.github.io/images/migration-planning-questionnaire.pdf)<br>
 [Workshop Feedback](https://forms.gle/8tuKJeDCBUUxWr3m9) - please note this sends you to the google form to fill out for us. 
 
 Looking for the resources we mentioned in the workshop? Find them [here](http://bit.ly/migration-articles).
