@@ -438,6 +438,8 @@ __What should you be checking for?__
 
 ### Metadata Migration Resources
 
+- <a href="https://www.orbiscascade.org/digital-collections-documentation">Orbis Cascade Allianace's Digital Collections Docmentation/Remediating Metadata Documentation</a>
+
 - <a href="http://dcpapers.dublincore.org/pubs/article/view/3861">Collaborative Metadata Application Profile Development for DAMS Migration</a><br>_Anne Washington and Andrew Weidner (2017)_
 
 - <a href="http://dcpapers.dublincore.org/pubs/article/view/3773">Metadata Quality Control for Content Migration: The Metadata Migration Project at the University of Houston</a><br>_Andrew Weidner and Annie Wu (2015)_
