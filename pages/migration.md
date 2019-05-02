@@ -438,7 +438,7 @@ __What should you be checking for?__
 
 ### Metadata Migration Resources
 
-- <a href="https://www.orbiscascade.org/digital-collections-documentation">Orbis Cascade Allianace's Digital Collections Docmentation/Remediating Metadata Documentation</a>
+- <a href="https://www.orbiscascade.org/digital-collections-documentation">Orbis Cascade Allianace's Digital Collections Docmentation/Remediating Metadata Documentation</a> _(2018)_
 
 - <a href="http://dcpapers.dublincore.org/pubs/article/view/3861">Collaborative Metadata Application Profile Development for DAMS Migration</a><br>_Anne Washington and Andrew Weidner (2017)_
 
