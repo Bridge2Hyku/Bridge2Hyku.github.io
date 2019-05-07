@@ -24,8 +24,8 @@ widget3:
   text: 'Hyku offers a turnkey repository system that is easy to use and maintain. Learn more about what Hyku offers in order to decide if it is the right fit for your institution.'
 
 callforaction:
-  url: '/updates/survey-results/'
-  text: 'Read our Digital Collections Survey Report ›'
+  url: '/updates/toolkit-pilot-test/'
+  text: 'Read Our Toolkit Pilot Test Report ›'
   style: alert
 permalink: /index.html
 #
