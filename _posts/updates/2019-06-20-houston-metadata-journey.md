@@ -75,5 +75,5 @@ Institutional knowledge from people or documentation is really helpful. As you�
 
 
  
-Want to see the other B2H Partner’s migration questionnaires?<br>
+*Want to see the other B2H Partner’s migration questionnaires?*<br>
 Go to our [Migration Stories Page](/partner-stories/)
