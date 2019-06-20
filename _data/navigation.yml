@@ -24,6 +24,8 @@
   dropdown:
   - title: Project Partners
     url: "/partners/"
+  - title: Migration Stories 
+    url: "/partner-stories/"
   - title: "Digital Collections Survey"
     url: "/survey/"
 
