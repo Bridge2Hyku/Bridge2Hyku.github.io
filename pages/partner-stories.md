@@ -20,7 +20,7 @@ Try to avoid the pressure of jumping too far ahead of the community in the name 
 *IUPUI ([Full Q&A Here](/updates/iupui-journey/))*
 
 Having a small cross functional group (people from IT, metadata, digitization, etc.) focused on the migration. Setting up good communication channels that are used often with the migration team and stakeholders can avoid a lot of confusion and missing details during your migration process. Follow the communities using your new platform and try to be active when possible. This can go a long way when needing support and future planning. <br>
-*UH ([Full Q&A Here](/updates/houston-journey/))*
+*UH's Lead Developer ([Full Q&A Here](/updates/houston-it-journey/))*
 
 A migration is not just about systems, it also affects lots of people. The advice I would give related to this is that it’s important to engage stakeholders in various ways throughout the process. Some stakeholders may just need to be kept in the loop about the general trajectory of work. Others more directly impacted by the work, should be part of the migration team(s) so that different perspectives can inform priorities and decisions. <br>
-*UH ([Full Q&A Here](/updates/houston-journey/))*
+*UH's Metadata Strategist ([Full Q&A Here](/updates/houston-metadata-journey/))*
