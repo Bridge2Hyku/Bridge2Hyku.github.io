@@ -6,13 +6,16 @@ permalink: "/workshop/"
 header:
     image_fullwidth: "header_unsplash_right.jpg"
 ---
-Welcome to the Workshop page of our website.  If you're interested in attending one of our workshops, the conferences we're scheduled to do it at are: 
+Welcome to the Workshop page of our website.  We've completed workshops at two conferences so far: 
 
 [Digital Initiatives Symposium](https://digital.sandiego.edu/symposium/2019/) - San Diego, April 29th<br>
 [Joint Conference on Digital Libraries](https://2019.jcdl.org/) - Urbana-Champaign, June 2nd-6th
 
 
-If you're attending/attended a workshop and need copies of the materials, here are the links:  
+Are you a consortium or group that'd be interested in having our workshop taught? Reach out to us! We'd be happy to present it again. 
+
+
+If you attended a workshop and need copies of the materials, or are interested in the workshop, here are the links:  
 
 [Workshop Slidedeck](https://bridge2hyku.github.io/images/DIS-workshop.pdf)<br>
 [Userstory Worksheet](https://bridge2hyku.github.io/images/userstory-worksheet.pdf)<br>
