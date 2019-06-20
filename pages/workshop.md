@@ -14,7 +14,7 @@ Welcome to the Workshop page of our website.  If you're interested in attending 
 
 If you're attending/attended a workshop and need copies of the materials, here are the links:  
 
-[Workshop Slidedeck - from Digital Initiatives Symposium](https://bridge2hyku.github.io/images/DIS-workshop.pdf)<br>
+[Workshop Slidedeck](https://bridge2hyku.github.io/images/DIS-workshop.pdf)<br>
 [Userstory Worksheet](https://bridge2hyku.github.io/images/userstory-worksheet.pdf)<br>
 [Migration Planning Questionnaire](https://bridge2hyku.github.io/images/migration-planning-questionnaire.pdf)<br>
 [Workshop Feedback](https://forms.gle/8tuKJeDCBUUxWr3m9) - please note this sends you to the google form to fill out for us. 
