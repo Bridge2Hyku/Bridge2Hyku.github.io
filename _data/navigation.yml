@@ -18,13 +18,13 @@
   url: "/workshop/"
   side: right
   
-- title: About
+- title: "About"
   url: "/about/"
   side: right
   dropdown:
-  - title: Project Partners
+  - title: "Project Partners"
     url: "/partners/"
-  - title: Migration Stories 
+  - title: "Migration Stories"
     url: "/partner-stories/"
   - title: "Digital Collections Survey"
     url: "/survey/"
