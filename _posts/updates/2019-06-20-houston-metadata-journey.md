@@ -55,10 +55,10 @@ See [Sean’s response](/updates/houston-it-journey/).
 
 
 **What feature are you most excited about having?**<br>
-Faceted browsing
-Custom metadata profile
-Infrastructure for linked data
-IIIF viewer
+- Faceted browsing
+- Custom metadata profile
+- Infrastructure for linked data
+- IIIF viewer
 
 
 **What lessons have you learned?**<br>
