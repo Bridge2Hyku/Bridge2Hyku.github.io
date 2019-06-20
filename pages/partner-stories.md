@@ -21,4 +21,4 @@ Having a small cross functional group (people from IT, metadata, digitization, e
 
 + 
 
-A migration is not just about systems, it also affects lots of people. The advice I would give related to this is that it’s important to engage stakeholders in various ways throughout the process. Some stakeholders may just need to be kept in the loop about the general trajectory of work. Others more directly impacted by the work, should be part of the migration team(s) so that different perspectives can inform priorities and decisions. - UH ([Full Q&A Here](/updates/houston-journey/)
+A migration is not just about systems, it also affects lots of people. The advice I would give related to this is that it’s important to engage stakeholders in various ways throughout the process. Some stakeholders may just need to be kept in the loop about the general trajectory of work. Others more directly impacted by the work, should be part of the migration team(s) so that different perspectives can inform priorities and decisions. - UH ([Full Q&A Here](/updates/houston-journey/))
