@@ -29,7 +29,7 @@ The University of Houston has been the Bridge2Hyku projectâ€™s primary hub.  Weâ
 CONTENTdm
 
 
-New Platform?**<br>
+**New Platform?**<br>
 Custom repository using Hyrax.
 
 
