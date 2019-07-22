@@ -1,0 +1,37 @@
+---
+layout: page
+#
+# Content
+#
+title: "Our Toolkit is at 1.0!"
+teaser: "After several months of bug-free beta, we’re proud to announce our tools now at 1.0"
+categories:
+  - updates
+tags:
+  - phase 3
+  - cdm bridge
+  - hybridge
+#
+# Styling
+#
+header: no
+breadcrumbs: yes
+image:
+    title: release-title.jpg
+    thumb: release-thumb.jpg
+    homepage: release-home.jpg
+---
+Our exporter and importer tools are stable and bug-free and available as open source software. They are available at the links below.  
+
+
+HyBridge, a gem for the Samvera stack for easy collection-based mass import<br>
+[https://github.com/Bridge2Hyku/hybridge/releases/tag/v1.0.0](https://github.com/Bridge2Hyku/hybridge/releases/tag/v1.0.0)
+
+
+CDM Bridge, a desktop application for exporting and crosswalking contentDM metadata<br>
+[https://github.com/Bridge2Hyku/cdm-bridge/releases/tag/v1.0.0](https://github.com/Bridge2Hyku/cdm-bridge/releases/tag/v1.0.0)
+
+
+If you are using our toolkit, please reach out to us on twitter to let us know! [@Bridge2Hyku](http://twitter.com/bridge2hyku)
+
+
