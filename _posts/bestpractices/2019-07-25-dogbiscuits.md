@@ -11,7 +11,6 @@ tags:
   - metadata-schema
   - metadata-migration
   - migration-strategy
-
 #
 # Styling
 #
@@ -20,7 +19,7 @@ breadcrumbs: yes
 image:
     title: dogbiscuits-title.jpg
     thumb: dogbiscuits-thumb.jpg
-    homepage: dogbiscuits-home.jpg
+    homepage: dogbiscuits-home.jpg 
 ---
 
 In Samvera, metadata schemas are decided at the worktype level. This differs dramatically from CONTENTdm, which houses these decisions at the collection level.  Out of the box Hyrax/Hyku only has one worktype, this means you will likely need to create more worktypes to suit your needs, and/or you will need to crosswalk into a more simplified schema.
