@@ -33,7 +33,7 @@ If you attempt to import this CSV with HyBridge into a Hyrax/Hyku instance where
 
 <img src="https://raw.githubusercontent.com/Bridge2Hyku/Bridge2Hyku.github.io/master/images/edited-cdmbridge-csv.PNG">
 
-Along with these edits, you will have to think carefully about how multiple worktypes with different metadata schemas will affect your metadata migration. You will likely be required to change the crosswalk in CDM Bridge (Under Preferences -> Export Fields, for more see the [CDM Bridge wiki](https://github.com/Bridge2Hyku/cdm-bridge/wiki))) to capture the unique fields to each worktype. 
+Along with these edits, you will have to think carefully about how multiple worktypes with different metadata schemas will affect your metadata migration. You will likely be required to change the crosswalk in CDM Bridge (Under Preferences -> Export Fields, for more see the [CDM Bridge wiki](https://github.com/Bridge2Hyku/cdm-bridge/wiki)) to capture the unique fields to each worktype. 
 
 Once you have made these modifications, your import to HyBridge should work like a charm and you should see all of your new items in the repository, with their respective work type(s), once the import is complete. 
 
