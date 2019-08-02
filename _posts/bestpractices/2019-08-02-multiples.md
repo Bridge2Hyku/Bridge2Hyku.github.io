@@ -25,7 +25,7 @@ image:
 Using [CDM Bridge](https://github.com/Bridge2Hyku/cdm-bridge/wiki) to help with your migration? If you’ve decided to add non-generic worktypes to your instance of Hyku/Hyrax (more on that [here](https://bridge2hyku.github.io/best-practices/dogbiscuits/))  then you will be required to manually edit your CDM Bridge CSVs.  This is one of the few manual processes required to migrate your content using the Bridge2Hyku workflow.  
 
 
-When you open any CSV created by CDM Bridge, the first column will always be Object Type, and by default this will include “GenericWork” at the object level and “File” for files attached to that object.  As shown here
+When you open any CSV created by CDM Bridge, the first column will always be Object Type, and by default this will include “GenericWork” at the object level and “File” for files attached to that object.  As shown here:
 
 <img src="https://raw.githubusercontent.com/Bridge2Hyku/Bridge2Hyku.github.io/master/images/non-edited-cdmbridge-csv.PNG">
 
