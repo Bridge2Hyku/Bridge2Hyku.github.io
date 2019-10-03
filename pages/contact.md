@@ -18,7 +18,7 @@ The Bridge2Hyku project is actively developing open source digital collections m
 
 ## Email
 
-If you have questions about the Bridge2Hyku project, feel free to <a href="mailto:tcrocken@uh.edu">e-mail us</a>.
+If you have questions about the Bridge2Hyku project, feel free to <a href="mailto:awashin8@Central.UH.EDU">e-mail us</a>.
 
 ## Twitter
 
