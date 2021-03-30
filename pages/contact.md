@@ -18,12 +18,8 @@ The Bridge2Hyku project is actively developing open source digital collections m
 
 ## Email
 
-If you have questions about the Bridge2Hyku project, feel free to <a href="mailto:awashin8@Central.UH.EDU">e-mail us</a>.
+If you have questions about the Bridge2Hyku project, feel free to <a href="mailto:awu@central.uh.edu">e-mail us</a>.
 
 ## Twitter
 
 The Bridge2Hyku project is also active on Twitter: [@Bridge2Hyku](https://twitter.com/Bridge2Hyku)
-
-## Samvera Community
-
-Members of the Bridge2Hyku team regularly contribute to the Samvera Community's [CONTENTdm Migration Interest Group](https://wiki.duraspace.org/display/samvera/CONTENTdm+Migration+Interest+Group).
