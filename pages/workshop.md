@@ -8,8 +8,8 @@ header:
 ---
 Welcome to the Workshop page of our website.  We've completed workshops at two conferences so far: 
 
-[Digital Initiatives Symposium](https://digital.sandiego.edu/symposium/2019/) - San Diego, April 29th<br>
-[Joint Conference on Digital Libraries](https://2019.jcdl.org/) - Urbana-Champaign, June 2nd-6th
+[Digital Initiatives Symposium](https://digital.sandiego.edu/symposium/2019/) - San Diego, April 29th, 2019<br>
+Joint Conference on Digital Libraries - Urbana-Champaign, June 2nd-6th, 2019
 
 
 Are you a consortium or group that'd be interested in having our workshop taught? Reach out to us! We'd be happy to present it again. 
